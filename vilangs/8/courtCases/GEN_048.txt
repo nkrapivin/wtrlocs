@@ -19,7 +19,7 @@ Sim, sou eu.
 $GEN_048_OnStart_02
 Você estrangulou o filho do senhor e da senhora Picque?
 $GEN_048_OnStart_03
-Eu não tive escolha, monsieur le juge. Infelizmente, a criança nasceu menina.
+Eu não tive escolha, meritíssimo juiz. Infelizmente, a criança nasceu menina.
 $GEN_048_OnStart_04
 Você vai queimar no inferno!
 $GEN_048_OnStart_05
@@ -53,7 +53,7 @@ A criança nasceu com vida?
 $GEN_048_02x04_00_00
 A criança nasceu com vida?
 $GEN_048_02x04_00_01
-Sim, monsieur le juge.
+Sim, meritíssimo juiz.
 $GEN_048_02x04_00_02
 Você o estrangulou com as próprias mãos?
 $GEN_048_02x04_00_03
@@ -63,13 +63,13 @@ Proponho que encerremos imediatamente este interrogatório... com uma sentença 
 $GEN_048_02x04_00_05
 Ainda não. Cidadã, como pôde fazer algo tão terrível?
 $GEN_048_02x04_00_06
-Faço isso por eles, monsieur le juge, não por mim. Já sofri o bastante, eles não precisarão passar por isso.
+Faço isso por eles, meritíssimo juiz, não por mim. Já sofri o bastante, eles não precisarão passar por isso.
 $GEN_048_01x07_01_QTitle
 Acredita em Deus, senhora?
 $GEN_048_01x07_01_00
 Você acredita em Deus, mulher?
 $GEN_048_01x07_01_01
-Não, monsieur le juge.
+Não, meritíssimo juiz.
 $GEN_048_01x07_01_02
 E quanto à Bíblia encontrada em sua casa?
 $GEN_048_01x07_01_03
