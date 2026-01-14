@@ -86,7 +86,7 @@ Sim, estou ciente disso.
 $GEN_010_02x06_01_02
 Então por que recusou ajudar seus concidadãos? Suas ações são uma traição à República e posso acusá-lo de traição.
 $GEN_010_02x06_01_03
-Monsieur le juge, o senhor sabe que eu também estou travando uma guerra pessoal?
+Meritíssimo juiz, o senhor sabe que eu também estou travando uma guerra pessoal?
 $GEN_010_02x06_01_04
 Que guerra?
 $GEN_010_02x06_01_05
@@ -148,7 +148,7 @@ $GEN_010_03x06_05_01
 $GEN_010_03x06_05_02
 Cidadão?
 $GEN_010_03x06_05_03
-Não respondi para não correr o risco de ofendê-lo, monsieur le juge, pois a única resposta possível seria que quem inventou essa bobagem só pode ser um idiota. E peço desculpas, monsieur le juge, caso tenha sido ideia sua.
+Não respondi para não correr o risco de ofendê-lo, meritíssimo juiz, pois a única resposta possível seria que quem inventou essa bobagem só pode ser um idiota. E peço desculpas, meritíssimo juiz, caso tenha sido ideia sua.
 $GEN_010_03x06_05_04
 Muitos dizem que há algo de errado.
 $GEN_010_03x06_05_05
@@ -180,7 +180,7 @@ Chame a testemunha.
 $GEN_010_06x05_06_11
 Foi você quem negociou com o réu? Por favor, apresente-se.
 $GEN_010_06x05_06_12
-Ruttmann é meu nome, sou camponês e moleiro. Sim, negociei com ele, monsieur le juge. Por que não? Fiz algo errado?
+Ruttmann é meu nome, sou camponês e moleiro. Sim, negociei com ele, meritíssimo juiz. Por que não? Fiz algo errado?
 $GEN_010_WIT_00_A_QTitle
 Poderia descrever as suas conclusões após examinar as crianças?
 $GEN_010_WIT_00_A_00
