@@ -22,7 +22,7 @@ Especiais: 600 francos
 $GEN_031_OnStart_00
 Cidadão, qual é o seu nome?
 $GEN_031_OnStart_01
-Arthur Bonnet, monsieur le juge.
+Arthur Bonnet, meritíssimo juiz.
 $GEN_031_OnStart_02
 Você está sendo acusado de explorar sexualmente sua pupila menor de idade, Olivia de Nerval, em benefício próprio. Como responde a essas acusações?
 $GEN_031_OnStart_03
@@ -214,7 +214,7 @@ Naturalmente. O diretor permitiu, então encontrei uma sala vazia para eles.
 $GEN_031_WIT_00_A_04
 Então o réu sabia de tudo e deu sua permissão pessoal?
 $GEN_031_WIT_00_A_05
-Monsieur le juge, nada acontece no Odéon-Théâtre sem o conhecimento e a permissão do diretor.
+Meritíssimo juiz, nada acontece no Odéon-Théâtre sem o conhecimento e a permissão do diretor.
 $GEN_031_WIT_00_A_06
 Então ele sabia o que acontecia por trás das portas fechadas.
 $GEN_031_WIT_00_B_QTitle
