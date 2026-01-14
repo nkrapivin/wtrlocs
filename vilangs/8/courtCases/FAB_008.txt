@@ -59,7 +59,7 @@ Você sentiu que a Revolução te deixou de fora?
 $FAB_008_01x02_00_01
 Acho que não entendi a pergunta.
 $FAB_008_01x02_00_02
-Permita-me explicar, monsieur le juge. Como mulher, a senhora sentiu ressentimento pela Revolução devido às possibilidades limitadas de participação política para o seu sexo?
+Permita-me explicar, meritíssimo juiz. Como mulher, a senhora sentiu ressentimento pela Revolução devido às possibilidades limitadas de participação política para o seu sexo?
 $FAB_008_01x02_00_03
 Que suposição absurda. Concordo com as ideias do cidadão Danton, que resumiu claramente o papel das mulheres na França de hoje: devem dar à luz filhos e criá-los para que se tornem os futuros guardiões da República.
 $FAB_008_01x02_00_04
@@ -101,7 +101,7 @@ Você participou do planejamento do golpe de Estado?
 $FAB_008_01x10_02_00
 Você participou do planejamento do golpe de Estado?
 $FAB_008_01x10_02_01
-Monsieur le juge, nós dois sabemos muito bem que nunca houve planos para um golpe de Estado. Tudo isso foi inventado por Robespierre e pelo Tribunal. O senhor olhou para meu marido e viu um inimigo.
+Meritíssimo juiz, nós dois sabemos muito bem que nunca houve planos para um golpe de Estado. Tudo isso foi inventado por Robespierre e pelo Tribunal. O senhor olhou para meu marido e viu um inimigo.
 $FAB_008_01x10_02_02
 Nossos informantes...
 $FAB_008_01x10_02_03
@@ -133,7 +133,7 @@ Você corrompeu os deputados da Convenção e–
 $FAB_008_04x03_04_00
 Você corrompeu os deputados da Convenção e–
 $FAB_008_04x03_04_01
-Perdoe-me por interrompê-lo, monsieur le juge, mas só de pensar em influenciar políticos de maneira tão abominável já me enoja! Que meninas inocentes sejam usadas pelos monarquistas...
+Perdoe-me por interrompê-lo, meritíssimo juiz, mas só de pensar em influenciar políticos de maneira tão abominável já me enoja! Que meninas inocentes sejam usadas pelos monarquistas...
 $FAB_008_04x03_04_02
 Gostaria de ressaltar que os políticos recorriam aos serviços dessas moças por livre e espontânea vontade delas. Eles vinham até mim para conversar sobre política. Com quem saíam depois, e com que intenção, se me permite, isso já não era da minha conta.
 $FAB_008_04x03_04_03
@@ -179,7 +179,7 @@ Seu nome verdadeiro, por favor.
 $FAB_008_05x07_06_05
 Mas esse é o meu verdadeiro... Ah, está bem, meu amor. Meu nome é Isabelle Dugard.
 $FAB_008_05x07_06_06
-Você deve se dirigir a mim como “monsieur le juge”.
+Você deve se dirigir a mim como “meritíssimo juiz”.
 $FAB_008_05x07_06_07
 “Tudo bem, meu amor.” Ela é boa, hein!
 $FAB_008_08x09_07_QTitle
@@ -233,7 +233,7 @@ Diga-me, você sabe algo sobre a corrupção de políticos no salão do réu?
 $FAB_008_WIT_00_A_00
 Diga-me, você sabe algo sobre a corrupção de políticos no salão do réu?
 $FAB_008_WIT_00_A_01
-Ah, bem... monsieur le juge. A gente quase sempre faz a mesma coisa, mas às vezes os clientes inventam umas ideias, sabe? Tem um deputado que vive pedindo pra eu fingir que sou uma espiã espanhola tentando corrompê-lo.
+Ah, bem... meritíssimo juiz. A gente quase sempre faz a mesma coisa, mas às vezes os clientes inventam umas ideias, sabe? Tem um deputado que vive pedindo pra eu fingir que sou uma espiã espanhola tentando corrompê-lo.
 $FAB_008_WIT_00_A_02
 Repugnante.
 $FAB_008_WIT_00_A_03
