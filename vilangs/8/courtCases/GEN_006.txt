@@ -244,13 +244,13 @@ Estou bastante confuso.
 $GEN_006_01x10_07_06
 Pobre menina.
 $GEN_006_01x10_07_07
-Monsieur le juge, a acusada está tentando nos enganar. Sabemos muito bem o que significa a marca de uma mulher na arma do crime.
+Meritíssimo juiz, a acusada está tentando nos enganar. Sabemos muito bem o que significa a marca de uma mulher na arma do crime.
 $GEN_006_01x10_07_08
 Talvez eu tenha deixado isso quando Serge já estava morto?
 $GEN_006_01x10_07_09
 Provavelmente pegou sem perceber, no susto.
 $GEN_006_PlotTwist_00
-Monsieur le juge! Cheguei a tempo. Preciso revelar algo. Por favor, me escute!
+Meritíssimo juiz! Cheguei a tempo. Preciso revelar algo. Por favor, me escute!
 $GEN_006_PlotTwist_01
 Conheço a senhorita Moreau. Atendo a família dela.
 $GEN_006_PlotTwist_02
