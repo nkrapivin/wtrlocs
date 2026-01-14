@@ -5,7 +5,7 @@ O réu é Olivier Mugler, um <a name="1" class="hidden">mestre chaveiro</a> de 6
 $FAB_004_DOC_1_01
 No mês passado, os proprietários de uma vidraçaria parisiense – Jean Rude, Louis Roux e Ferdinand Salan – encomendaram a ele <a name="2" class="hidden">a fabricação de fechaduras</a> para baús ornamentados destinados a guardar objetos de valor, supostamente como presentes para suas esposas. O artesão elogiou sua última criação como “à prova de ladrões”. Pouco depois de concluídas, as casas dos industriais foram alvo de <a name="3" class="hidden">uma série de furtos</a> cometidos por um recém-chegado a Paris, Hector Vian. O <a name="4" class="hidden">ladrão de Orléans</a> foi pego em flagrante e morto a tiros por Ferdinand Salan.
 $FAB_004_DOC_1_02
-Foi encontrada com o falecido uma valiosa mapa de Turgot de Paris, com as <a name="5" class="hidden">casas</a> dos industriais recentemente roubados marcadas. Curiosamente, Salan havia dado a Mugler um mapa idêntico como adiantamento. Esse depósito era além da remuneração combinada com todos os contratantes.
+Foi encontrado com o falecido um valioso mapa de Turgot de Paris, com as <a name="5" class="hidden">casas</a> dos industriais recentemente roubadas marcadas. Curiosamente, Salan havia dado a Mugler um mapa idêntico como adiantamento. Esse depósito era além da remuneração combinada com todos os contratantes.
 $FAB_004_DOC_1_03
 Recebemos informações interessantes da proprietária da estalagem Margot Ruiva. Ela recordou que, na noite anterior ao roubo, o chaveiro se encontrou lá com um homem que ela não reconheceu. Com base em sua descrição, conseguimos identificá-lo como o já mencionado Hector Vian. Os dois teriam participado de uma <a name="7" class="hidden">noite de bebedeira</a> patrocinada por Mugler.
 $FAB_004_DOC_1_04
@@ -17,7 +17,7 @@ Roubar a burguesia não é crime!
 $FAB_004_OnStart_01
 De acordo com o processo, você é o cidadão Olivier Mugler. Está correto?
 $FAB_004_OnStart_02
-De fato, sou eu, monsieur le juge. Posso fazer um pedido? Gostaria de me sentar. Veja, já sou um homem velho...
+De fato, sou eu, merítissimo juiz. Posso fazer um pedido? Gostaria de me sentar. Veja, já sou um homem velho...
 $FAB_004_OnStart_03
 O respeito básico ao tribunal exige que permaneça de pé. Os nomes Salan, Rude e Roux lhe dizem algo?
 $FAB_004_OnStart_04
