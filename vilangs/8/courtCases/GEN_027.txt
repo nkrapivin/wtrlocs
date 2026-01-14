@@ -13,7 +13,7 @@ Aquele cozinheiro de merda acha que é melhor do que a gente!
 $GEN_027_OnStart_01
 Por favor, apresente-se.
 $GEN_027_OnStart_02
-Meu nome é Jean-François Vary, monsieur le juge.
+Meu nome é Jean-François Vary, meritíssimo juiz.
 $GEN_027_OnStart_03
 Jean-François, você está sendo acusado de manter e agir segundo ideias contrárias às conquistas da Revolução. Como responde a essas acusações?
 $GEN_027_OnStart_04
@@ -87,13 +87,13 @@ Isso não é verdade! Só quis dizer que nunca vivi a terrível injustiça que o
 $GEN_027_02x05_01_07
 Claro que não, você morava em um palácio, não em um celeiro.
 $GEN_027_02x05_01_08
-Monsieur le juge, conquistei meus privilégios com muito esforço. Não nasci em uma família rica e precisei trabalhar pelo pão como qualquer outra pessoa.
+Meritíssimo juiz, conquistei meus privilégios com muito esforço. Não nasci em uma família rica e precisei trabalhar pelo pão como qualquer outra pessoa.
 $GEN_027_04x05_02_QTitle
 Você pendurou a placa sobre o seu restaurante?
 $GEN_027_04x05_02_00
 Você pendurou a placa acima do seu restaurante?
 $GEN_027_04x05_02_01
-Sim, monsieur le juge, eu fiz.
+Sim, meritíssimo juiz, eu fiz.
 $GEN_027_04x05_02_02
 Por que você fez isso? A mensagem na placa contradizia claramente os ideais revolucionários de igualdade e fraternidade.
 $GEN_027_04x05_02_03
@@ -123,7 +123,7 @@ Sou Paul Idrac.
 $GEN_027_06x07_03_04
 Qual é a sua profissão?
 $GEN_027_06x07_03_05
-Sou sapateiro, monsieur le juge, como meu pai e meu avô.
+Sou sapateiro, meritíssimo juiz, como meu pai e meu avô.
 $GEN_027_05x06_04_QTitle
 É normal um restaurateur recusar clientes?
 $GEN_027_05x06_04_00
@@ -201,7 +201,7 @@ Pode provar isso?
 $GEN_027_WIT_01_B_07
 E eu não sou a prova?
 $GEN_027_WIT_01_B_09
-Monsieur le juge, não me lembro de ter dito tais palavras. Este homem está tentando me caluniar!
+Meritíssimo juiz, não me lembro de ter dito tais palavras. Este homem está tentando me caluniar!
 $GEN_027_KEY_01
 Chef
 $GEN_027_KEY_02
