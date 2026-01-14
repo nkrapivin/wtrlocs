@@ -96,7 +96,7 @@ Depoimentos de invejosos, dispostos a tudo para prejudicar o trabalho de um home
 $GEN_003_02x03_02_QTitle
 Quanto à violação dos limites legais de preços —
 $GEN_003_02x03_02_00
-Antes que monsieur le juge faça qualquer pergunta, permita-me deixar uma coisa clara: jamais ultrapassei deliberadamente o limite legal de preços nas minhas barracas. Considero tais acusações maliciosas e vis.
+Antes que o meritíssimo juiz faça qualquer pergunta, permita-me deixar uma coisa clara: jamais ultrapassei deliberadamente o limite legal de preços nas minhas barracas. Considero tais acusações maliciosas e vis.
 $GEN_003_02x03_02_01
 Protesto! Você só ajustou os preços após a chegada dos inspetores.
 $GEN_003_02x03_02_02
