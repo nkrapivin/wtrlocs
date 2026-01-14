@@ -43,11 +43,11 @@ O senhor esteve pessoalmente envolvido no enforcamento de Frédéric Fidèle?
 $FAB_016_01x02_00_01
 Não, Alexis, eu jamais...
 $FAB_016_01x02_00_02
-Você deve se dirigir ao juiz como “monsieur le juge”, e não pelo primeiro nome.
+Você deve se dirigir ao juiz como “meritíssimo juiz”, e não pelo primeiro nome.
 $FAB_016_01x02_00_03
 Esse canalha está se dando liberdades demais.
 $FAB_016_01x02_00_04
-Eu não matei o filho de... monsieur le juge. Como eu poderia? Você era tudo que eu tinha de família...
+Eu não matei o filho de... meritíssimo juiz. Como eu poderia? Você era tudo que eu tinha de família...
 $FAB_016_01x02_00_05
 Nem ouse sugerir uma coisa dessas.
 $FAB_016_01x02_00_06
@@ -95,7 +95,7 @@ Sim, porque eu queria desesperadamente ter meu filho de volta... Fui tolo, mas n
 $FAB_016_01x05_02_06
 Sim, e você é tão culpado quanto o homem que o procurou. Qual era o nome dele?
 $FAB_016_01x05_02_07
-Me desculpe, de verdade, eu não sei. Por favor, me perdoe, eu imploro, monsieur le juge. Eu jamais teria machucado sua família de propósito.
+Me desculpe, de verdade, eu não sei. Por favor, me perdoe, eu imploro, meritíssimo juiz. Eu jamais teria machucado sua família de propósito.
 $FAB_016_01x05_02_08
 Não importa. Sangue se paga com sangue!
 $FAB_016_01x05_02_09
@@ -171,7 +171,7 @@ Bebi por muito tempo. Mais por prazer do que por qualquer outro motivo. Minha es
 $FAB_016_04x07_06_04
 Quer dizer que o coração dela não aguentou?
 $FAB_016_04x07_06_05
-Ficaria grato se não comentássemos aqui as informações que compartilhei em particular com monsieur le juge em sua casa...
+Ficaria grato se não comentássemos aqui as informações que compartilhei em particular com o meritíssimo juiz em sua casa...
 $FAB_016_04x07_06_06
 Agora isso é assunto do tribunal, e o que você deseja não tem importância aqui.
 $FAB_016_04x07_06_07
