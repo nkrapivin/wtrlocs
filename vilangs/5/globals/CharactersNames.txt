@@ -83,7 +83,7 @@ $Official_Court_Standing
 #FrancoisHanriot
 弗朗索瓦·阿尼奥
 #FrancoisHanriot_Shortcut
-安里奥
+昂里奥
 #MathieuBurel
 马蒂厄·比雷尔
 #MathieuBurel_Shortcut
@@ -233,7 +233,7 @@ $Official_Court_Standing
 #GeorgesDanton_Shortcut
 丹东
 #CharlotteCorday
-夏洛特·科尔代
+夏洛特·科黛
 #GerardBoutin
 热拉尔·布坦
 #JeanCourbis

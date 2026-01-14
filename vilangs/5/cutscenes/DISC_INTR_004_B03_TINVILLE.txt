@@ -17,7 +17,7 @@ $DISC_INTR_004_B03_TINVILLE_008_JUDGE_HUMI
 $DISC_INTR_004_B03_TINVILLE_009_TINVILLE_INTR
 您过奖了。
 $DISC_INTR_004_B03_TINVILLE_010_TINVILLE_DOUB
-我并不是拯救公安委员会声誉的合适人选，还有更优秀、更有经验的候选人。
+我并不是拯救公共安全委员会声誉的合适人选，还有更优秀、更有经验的候选人。
 $DISC_INTR_004_B03_TINVILLE_011_TINVILLE_IRRI
 这太荒谬了。你们拥有整个城市，所有革命的英雄，却还要让我这样一个普通检察官来拯救巴黎？
 $DISC_INTR_004_B03_TINVILLE_012_JUDGE_AGGR
