@@ -1,7 +1,7 @@
 $CUT_22_SPEECH_001_CROWD
 Quando é que vamos nos livrar de vez desses santos hipócritas?
 $CUT_22_SPEECH_002_CROWD
-Diga-nos, monsieur le juge!
+Diga-nos, meritíssimo juiz!
 $CUT_22_SPEECH_003_CROWD
 Quando Tinville vai finalmente encurralá-los?
 $CUT_22_SPEECH_004_JUDGE_AGGR
