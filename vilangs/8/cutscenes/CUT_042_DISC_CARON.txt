@@ -1,7 +1,7 @@
 $CUT_042_DISC_CARON_001_CARON
-Por que diabos fui sequestrado e amarrado a uma cadeira?!
+Por que diabos fui sequestrada e amarrada a uma cadeira?!
 $CUT_042_DISC_CARON_002_CARON
-Em Paris não faltam prostitutas dispostas a brincar desse jogo com você. Então, meritíssimo, vai me responder?
+Em Paris não faltam prostitutas dispostas a brincar desse jogo com você. Então, meritíssimo juiz, vai me responder?
 $CUT_042_DISC_CARON_003_CARON
 Ou você quer que eu fique olhando enquanto se masturba, seu velho imundo?
 $CUT_042_DISC_CARON_004_CARON
@@ -45,7 +45,7 @@ Não me importa o que você tenha que fazer ou o que não queira fazer. Não ten
 $CUT_042_DISC_CARON_017_JUDGE_AGGR
 Você foi traído pelos Muscadins. Eles nos contaram sobre seu caso com a filha do prefeito. Assim que Pache souber de tudo, acredite, ele fará de tudo para ver você condenado à morte. Ninguém está ao seu lado...
 $CUT_042_DISC_CARON_018_JUDGE_MANI
-Você vê alguém aqui que ficaria ao seu lado? Alguém veio ajudá-lo? Não. Só eu posso ajudá-lo.
+Você vê alguém aqui que ficaria ao seu lado? Alguém veio ajudá-la? Não. Só eu posso ajudá-la.
 $CUT_042_DISC_CARON_019_JUDGE_JOKE
 Sua liberdade está a uma assinatura de distância. Por que hesitar? O prefeito sentirá as consequências deste documento muito mais do que você.
 $CUT_042_DISC_CARON_020_JUDGE_HUMI
@@ -59,17 +59,17 @@ De um jeito ou de outro, sua assinatura estará no depoimento. O papel não se i
 $CUT_042_DISC_CARON_024_JUDGE_HUMI
 O prefeito vai te matar se o seu romance com a filha dele vier à tona e ameaçar a reputação dele. Ele também tentou me eliminar quando minhas ações começaram a pôr seus negócios em risco.
 $CUT_042_DISC_CARON_025_JUDGE_AGGR
-Esta é sua única chance de recomeçar. Ao sair desta sala, você morrerá, mas mesmo aqui a morte o ameaça, pois minha paciência está chegando ao fim.
+Esta é sua única chance de recomeçar. Ao sair desta sala, você morrerá, mas mesmo aqui a morte a ameaça, pois minha paciência está chegando ao fim.
 $CUT_042_DISC_CARON_026_JUDGE_MANI
 Deixe Paris. Fuja da tempestade que não terá piedade de você e que pouco se importa com seus sentimentos por Marie. A América é um bom destino, e a sombra da Revolução não o alcançará lá. Assine este documento. Fuja enquanto ainda há tempo.
 $CUT_042_DISC_CARON_027_JUDGE_JOKE
-Pense nisso como uma chance de recomeçar. Compre algo bonito para vestir e fuja desta cidade que nunca foi, e nunca será, do seu lado.
+Pense nisso como uma chance de recomeçar. Compre algo bonito para vestir e fuja desta cidade que nunca foi, e nunca estará, do seu lado.
 $CUT_042_DISC_CARON_028_JUDGE_HUMI
 Quando tudo se acalmar, vai parecer que nada aconteceu. Às vezes é preciso sofrer para se salvar. Ou para salvar quem se ama.
 $CUT_042_DISC_CARON_029_CARON_INTR
 Você pode me garantir que minha nova vida não será interrompida de repente por um acidente? Que eu não vou, misteriosamente, encontrar uma faca no caminho ou acabar sob as rodas de uma carroça?
 $CUT_042_DISC_CARON_030_CARON_DOUB
-Eu pareço alguém que está desesperadamente preocupado com a própria vida ou com a opinião dos outros?
+Eu pareço alguém que está desesperadamente preocupada com a própria vida ou com a opinião dos outros?
 $CUT_042_DISC_CARON_031_CARON_IRRI
 …
 $CUT_042_DISC_CARON_032_CARON_AGGR
@@ -81,7 +81,7 @@ A América é um bom lugar para você, é um novo mundo, ainda em formação. L�
 $CUT_042_DISC_CARON_035_JUDGE_JOKE
 Você espera que a França aceite duas mulheres em um relacionamento, como você e Marie? A Revolução mudou a forma de governo, mas o povo continua o mesmo, e eles não lutaram por uma liberdade que não compreendem.
 $CUT_042_DISC_CARON_036_JUDGE_HUMI
-A França não dará a você e a Marie a liberdade de que precisam. Pode gritar e se rebelar o quanto quiser, mas pagará por isso com a própria vida. E, na guilhotina, tudo o que ouvirá será a multidão gritando: “Aberração.”
+A França não dará a você e a Marie a liberdade de que precisam. Pode gritar e se rebelar o quanto quiser, mas pagará por isso com a própria vida. E, na guilhotina, tudo o que ouvirá será a multidão gritando: “Aberração!”
 $CUT_042_DISC_CARON_037_CARON_INTR
 Talvez realmente fosse melhor se eu deixasse este país mentiroso, que só finge que a Revolução nos trouxe salvação.
 $CUT_042_DISC_CARON_038_CARON_DOUB
