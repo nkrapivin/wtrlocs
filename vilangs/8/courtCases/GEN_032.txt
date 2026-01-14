@@ -47,7 +47,7 @@ Para que o senhor comprou os gatos?
 $GEN_032_04x05_00_00
 Para que você comprou os gatos?
 $GEN_032_04x05_00_01
-Monsieur le juge, é... para fins médicos.
+Meritíssimo juiz, é... para fins médicos.
 $GEN_032_04x05_00_02
 Como assim?
 $GEN_032_04x05_00_03
@@ -151,7 +151,7 @@ Há quanto tempo você entrega gatos para o acusado?
 $GEN_032_WIT_00_B_00
 Há quanto tempo você entrega gatos para o acusado?
 $GEN_032_WIT_00_B_01
-Foi só o terceiro saco quando monsieur le juge esbarrou em mim na rua...
+Foi só o terceiro saco quando o meritíssimo juiz esbarrou em mim na rua...
 $GEN_032_WIT_00_B_02
 Então você começou há pouco tempo?
 $GEN_032_WIT_00_B_03
