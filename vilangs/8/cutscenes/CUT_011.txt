@@ -11,7 +11,7 @@ Você realmente acha que atacar a família dele é uma boa ideia?
 $CUT_011_006_JUDGE
 Isso foi fácil.
 $CUT_011_007_JUDGE
-Bastar mostrar um pouco da minha vulnerabilidade e algumas moedas reluzentes para que ele acreditasse na nossa amizade.
+Bastou mostrar um pouco da minha vulnerabilidade e algumas moedas reluzentes para que ele acreditasse na nossa amizade.
 $CUT_011_008_JUDGE
 Ele é como um animal sendo levado ao abate.
 $CUT_011_009_JUDGE
