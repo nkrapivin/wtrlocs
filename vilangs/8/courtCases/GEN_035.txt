@@ -15,7 +15,7 @@ Pervertido! Correndo por aí com roupas de mulher!
 $GEN_035_OnStart_01
 Devo admitir que raramente recebemos pessoas como você aqui. Por favor, apresente-se.
 $GEN_035_OnStart_02
-Bem... Eu sou Cerdan. Fabrice Cerdan, monsieur le juge.
+Bem... Eu sou Cerdan. Fabrice Cerdan, meritíssimo juiz.
 $GEN_035_OnStart_03
 Tem certeza?
 $GEN_035_OnStart_04
@@ -91,7 +91,7 @@ O réu deve medir suas palavras. Então houve um conflito entre o réu e a víti
 $GEN_035_01x06_01_07
 Conflito? Aquele canalha nunca pagou meu patrão pelo uniforme! Ei, Le Vau, já que está aqui, me passa logo os 300 francos, vai. Assim você poupa uma caminhada depois.
 $GEN_035_01x06_01_08
-Isso é calúnia, monsieur le juge!
+Isso é calúnia, meritíssimo juiz!
 $GEN_035_01x06_01_09
 Calúnia, uma ova! Você está de farda ou não? E quem vai pagar por ela? Ninguém! Na verdade, até fico feliz que aquelas senhoras tenham arranhado esse seu rostinho bonito.
 $GEN_035_01x06_01_10
@@ -121,7 +121,7 @@ Você que é a vaca gorda!
 $GEN_035_03x05_02_10
 Silêncio! A vítima deseja comentar sobre isso?
 $GEN_035_03x05_02_11
-Tenho uma noiva, monsieur le juge. Não me recordo de nenhuma investida da Cidadã Martin e, para ser sincero, não sei nada sobre a vida amorosa dela.
+Tenho uma noiva, meritíssimo juiz. Não me recordo de nenhuma investida da Cidadã Martin e, para ser sincero, não sei nada sobre a vida amorosa dela.
 $GEN_035_03x05_02_12
 A vítima conhece Sylvie Martin?
 $GEN_035_03x05_02_13
