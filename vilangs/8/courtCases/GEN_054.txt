@@ -11,7 +11,7 @@ $GEN_054_DOC_01_03
 $GEN_054_OnStart_00
 Cidadão Thibodeaux, os cães que atacaram o feirante Courbis são seus?
 $GEN_054_OnStart_01
-Não, monsieur le juge, não são meus.
+Não, meritíssimo juiz, não são meus.
 $GEN_054_OnStart_02
 A quem pertencem então, se me permite perguntar?
 $GEN_054_OnStart_03
@@ -91,7 +91,7 @@ Por que você não alimentou os cães?
 $GEN_054_03x06_02_00
 Por que você não alimentou os cães?
 $GEN_054_03x06_02_01
-Com o quê, monsieur le juge? Não estou nadando em dinheiro, e muitas vezes mal tenho o suficiente para mim mesmo.
+Com o quê, meritíssimo juiz? Não estou nadando em dinheiro, e muitas vezes mal tenho o suficiente para mim mesmo.
 $GEN_054_03x06_02_02
 O que eles têm comido desde o desaparecimento do seu irmão?
 $GEN_054_03x06_02_03
