@@ -106,7 +106,7 @@ Este é um motivo claro e uma prova conclusiva.
 $GEN_029_02x03_02_06
 Inclui também as aristocratas?
 $GEN_029_02x03_02_07
-Ah não, não, ha ha! Essas moças são boas, monsieur le juge, a gente sabe aproveitar. E as damas nobres, sabe como é, vêm mais limpinhas.
+Ah não, não, ha ha! Essas moças são boas, meritíssimo juiz, a gente sabe aproveitar. E as damas nobres, sabe como é, vêm mais limpinhas.
 $GEN_029_04x05_03_QTitle
 Chame a testemunha.
 $GEN_029_04x05_03_00
@@ -114,7 +114,7 @@ Chame a testemunha.
 $GEN_029_04x05_03_02
 Por favor, apresente-se.
 $GEN_029_04x05_03_03
-Jules Marot, monsieur le juge.
+Jules Marot, meritíssimo juiz.
 $GEN_029_06x03_04_QTitle
 Como os restos mortais de Laura Dufort foram parar no galpão do réu?
 $GEN_029_06x03_04_00
@@ -186,7 +186,7 @@ Qual era sua relação com a falecida Laura Dufort?
 $GEN_029_WIT_00_A_00
 Qual era a sua relação com a falecida Laura Dufort?
 $GEN_029_WIT_00_A_01
-Ela era a pessoa mais próxima que eu tinha neste mundo. Conheci ela a vida inteira, e esse miserável… Monsieur le juge, eu a amava.
+Ela era a pessoa mais próxima que eu tinha neste mundo. Conheci ela a vida inteira, e esse miserável… Meritíssimo juiz, eu a amava.
 $GEN_029_WIT_00_A_02
 Ela correspondia ao seu amor?
 $GEN_029_WIT_00_A_03
@@ -204,7 +204,7 @@ Quando criança, Laura perdeu o incisivo superior direito... infelizmente, por m
 $GEN_029_WIT_01_A_04
 Pode ser apenas uma coincidência.
 $GEN_029_WIT_01_A_05
-Monsieur le juge, eu sei do que estou falando. Tudo bate: o maxilar, a distância entre os olhos... Aquele canalha provavelmente estuprou a Laura, matou-a e depois arrancou sua cabeça!
+Meritíssimo juiz, eu sei do que estou falando. Tudo bate: o maxilar, a distância entre os olhos... Aquele canalha provavelmente estuprou a Laura, matou-a e depois arrancou sua cabeça!
 $GEN_029_WIT_01_A_06
 Malle lhe disse onde encontrou o crânio?
 $GEN_029_WIT_01_A_07
