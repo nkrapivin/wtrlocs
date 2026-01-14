@@ -153,7 +153,7 @@ Isso começou... não, não quero expor meus sentimentos diante de quem os consi
 $FAB_006_06x08_06_07
 Seu depoimento pode ajudar em–
 $FAB_006_06x08_06_08
-Sim, eu matei Béatrice porque sou um monstro degenerado. Um aberração! Era isso que queria ouvir?
+Sim, eu matei Béatrice porque sou um monstro degenerado. Uma aberração! Era isso que queria ouvir?
 $FAB_006_06x08_06_09
 Isso mesmo, monstro!
 $FAB_006_03x07_07_QTitle
