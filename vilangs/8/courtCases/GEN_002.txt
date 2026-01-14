@@ -81,7 +81,7 @@ Eu costuro, lavo as roupas dos meus filhos, cozinho e limpo.
 $GEN_002_01x02_00_06
 E você passa as noites no armazém?
 $GEN_002_01x02_00_07
-As noites? Não, monsieur le juge, fico lá a noite inteira. De manhã volto para casa, preparo o café das crianças e depois vou costurar.
+As noites? Não, meritíssimo juiz, fico lá a noite inteira. De manhã volto para casa, preparo o café das crianças e depois vou costurar.
 $GEN_002_01x02_00_08
 A Revolução deveria ter melhorado as coisas!
 $GEN_002_01x06_01_QTitle
