@@ -35,6 +35,10 @@ The text is stored in the exact same format as it was originally stored by the d
 
 `steamcode.txt` must contain only the Steamworks SDK language code of the language, for English this is `english`, for Simplified Chinese this is `schinese`. This is necessary for Steam language detection. Do not edit unless necessary.
 
+`vicredits.txt` contains the english-only text version of credits that can be opened in the main menu.
+
+`vilangsrevision.txt` (Steam build only!) contains a link to the commit of the bundled translation data.
+
 The game is made with Unity, so whenever you see angular `<...>` brackets, those are Unity text formatting tags, and when you see curly brackets `{0} {1}`, those are C# string formatting symbols. Please try to preserve them when making your edits.
 
 Please also preserve the original line endings of any files you edit.
