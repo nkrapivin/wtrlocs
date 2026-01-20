@@ -1,0 +1,92 @@
+<b>Written & Directed by:</b>
+Dawid Ciślak
+
+<b>Produced & Designed by:</b>
+Patryk Polewiak
+Dawid Ciślak
+
+<b>2D Artists:</b>
+Zuzanna Szabłowska
+Bartosz Dublaszewski
+Joanna Kizińska
+Dorota Świderska
+Roksana Nikicionek
+
+<b>Programmers:</b>
+Paweł Żołyniak
+Jan Gajewski
+
+<b>Additional programmers:</b>
+Paweł Orłowski
+
+<b>Animations by:</b>
+Michał Tabor
+
+<b>Music by:</b>
+Draco Nared
+
+<b>SFX Artists:</b>
+Patryk Karwat
+Marcin Deja
+
+<b>Quality assurance:</b>
+Michał Tabor
+Kamil Rojek
+
+<b>Additional QA:</b>
+Aleksandra Racka
+Mateusz Sasko
+Amadea Sokołowska
+
+<b>Additional writing:</b>
+Marcin Strzyżewski
+Sylwester Mglej
+Tomasz Sikora
+
+<b>Editing (PL):</b>
+Maria Osińska
+Adam Osiński
+
+<b>Valkyrie Initiative Publishing</b>
+<b>CEO</b>
+Eduard Minin
+<b>Co founder / Executive Producer</b>
+Ivan Pomytkin
+<b>Head of Marketing and PR</b>
+Jesse Kellor
+<b>Business Development Manager</b>
+Arkady Pavlov
+<b>Head of Release</b>
+Nikita Krapivin
+<b>Special Thanks</b>
+Nikolay Korneev
+
+<b>Localization & Voice over Team:</b>
+ROBOTO
+
+<b>Community Localization (wtrlocs):</b>
+Alex Song
+
+<b>Voice actors:</b>
+Michael Dobson
+Marlie Collins
+Bill Newton
+Ian Hanlin
+Jason Simpson
+Cole Howard
+Steve Amazzal
+Alistaire Able 
+Mark Oliver
+Caitlyn Bairstow
+
+<b>Special thanks</b>
+Marcin Zasada
+Maciej Rauch
+Ewa Krzyżewska
+Azmend Undram
+Adam Węsierski
+Kornel Miszczak
+Amaury Pichon
+Kinga Głowacka
+Łukasz Józefowicz
+Piotr Bajraszewski
