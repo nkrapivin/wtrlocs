@@ -78,7 +78,7 @@ Você o amava? Se sim, talvez o tenha matado por ciúmes.
 $GEN_006_01x02_00_08
 Eu não sei... Não posso responder a essa pergunta.
 $GEN_006_01x02_00_09
-Recusar-se a responder só irá prejudicá-lo.
+Recusar-se a responder só irá prejudicá-la.
 $GEN_006_01x02_00_10
 Ela mal respira, pobre criatura traumatizada.
 $GEN_006_01x03_01_QTitle
@@ -178,7 +178,7 @@ Então por que você não gritou? As mulheres costumam gritar alto quando algo a
 $GEN_006_04x07_04_09
 Não posso explicar isso.
 $GEN_006_04x07_04_10
-Um grita, outro não. O que isso prova?
+Uma grita, outra não. O que isso prova?
 $GEN_006_09x08_05_QTitle
 Quando os guardas chegaram, encontraram você coberta de sangue.
 $GEN_006_09x08_05_00
@@ -240,7 +240,7 @@ Então ele foi morto por uma mulher? Ele tinha outra, mas queria se casar comigo
 $GEN_006_01x10_07_04
 Eu não disse isso.
 $GEN_006_01x10_07_05
-Estou bastante confuso.
+Estou bastante confusa.
 $GEN_006_01x10_07_06
 Pobre menina.
 $GEN_006_01x10_07_07
@@ -264,7 +264,7 @@ O que o leva a essa conclusão?
 $GEN_006_WIT_00_A_00
 O que o leva a essa conclusão?
 $GEN_006_WIT_00_A_01
-Tenho tratado dela há muitos anos e a conheço desde criança. Ultimamente, ela mudou. Quando a senhorita Moreau me procurou recentemente, estava trêmula, com febre constante e crises de pavor. Prescrevi algumas ervas para acalmá-la–
+Tenho tratado dela há muitos anos e a conheço desde criança. Ultimamente, ela mudou. Quando a senhorita Moreau me procurou recentemente, estava trêmula, com febre constante e crises de pavor. Prescrevi algumas ervas para acalmá-la-
 $GEN_006_WIT_00_A_02
 E qual é a relação com–
 $GEN_006_WIT_00_A_03
