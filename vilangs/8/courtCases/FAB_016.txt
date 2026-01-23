@@ -47,7 +47,7 @@ Você deve se dirigir ao juiz como “meritíssimo juiz”, e não pelo primeiro
 $FAB_016_01x02_00_03
 Esse canalha está se dando liberdades demais.
 $FAB_016_01x02_00_04
-Eu não matei o filho de... meritíssimo juiz. Como eu poderia? Você era tudo que eu tinha de família...
+Eu não matei o filho do... meritíssimo juiz. Como eu poderia? Você era tudo que eu tinha de família...
 $FAB_016_01x02_00_05
 Nem ouse sugerir uma coisa dessas.
 $FAB_016_01x02_00_06
