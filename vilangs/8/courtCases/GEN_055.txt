@@ -151,7 +151,7 @@ Todos vinham até ele em busca de ajuda, e ele fazia tudo o que podia. Não há 
 $GEN_055_08x01_04_06
 Então todos os casos do livro eram pacientes particulares do Dr. Hill?
 $GEN_055_08x01_04_07
-Sim, monsieur le juge.
+Sim, meritíssimo juiz.
 $GEN_055_02x05_05_QTitle
 Seu livro vendeu bem?
 $GEN_055_02x05_05_00

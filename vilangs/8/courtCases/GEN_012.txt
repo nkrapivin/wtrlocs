@@ -5,7 +5,7 @@ No banco dos réus está Michał Trandowski, da Polônia, um desertor de 44 anos
 $GEN_012_DOC_01_01
 Suas intenções por trás do ataque não estão claras, embora testemunhas sugiram que o alvo foi <a name="4" class="hidden">Maximilien Robespierre</a>.
 $GEN_012_DOC_01_02
-Trandowski conseguiu entrar em uma sessão da Convenção e, de alguma forma, ainda levou um punhal consigo. O ataque ocorreu no corredor, durante o intervalo. O polonês sacou a faca e avançou contra Robespierre. Não há dúvida de que o desfecho teria sido trágico, não fosse por <a name="5" class="hidden">Cécile de Jarre</a>, colaborador da vítima. Sua mão foi ferida na luta, mas seu sacrifício permitiu que outros contivessem o agressor.
+Trandowski conseguiu entrar em uma sessão da Convenção e, de alguma forma, ainda levou um punhal consigo. O ataque ocorreu no corredor, durante o intervalo. O polonês sacou a faca e avançou contra Robespierre. Não há dúvida de que o desfecho teria sido trágico, se não fosse por <a name="5" class="hidden">Cécile de Jarre</a>, colaborador da vítima. Sua mão foi ferida na luta, mas seu sacrifício permitiu que outros contivessem o agressor.
 $GEN_012_DOC_01_03
 Michał Trandowski foi detido pela Guarda e levado ao Tribunal, onde terá que responder por <a name="6" class="hidden">tentativa de assassinato político</a>, o que equivale a agir contra a França.
 $GEN_012_DOC_01_04

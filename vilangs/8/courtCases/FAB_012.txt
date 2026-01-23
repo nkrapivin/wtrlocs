@@ -63,7 +63,7 @@ Chame a testemunha.
 $FAB_012_01x04_01_02
 Por favor, apresente-se.
 $FAB_012_01x04_01_03
-Blaise Fossett, monsieur le juge. Sou apenas um simples ferreiro.
+Blaise Fossett, meritíssimo juiz. Sou apenas um simples ferreiro.
 $FAB_012_01x04_01_04
 Cidadão, confirma ter sido testemunha dos acontecimentos que nos trouxeram aqui hoje?
 $FAB_012_01x04_01_05
@@ -181,7 +181,7 @@ Durante sua prisão, você afirmou que possuía documentos oficiais emitidos por
 $FAB_012_06x09_08_00
 Durante sua prisão, você afirmou que possuía documentos oficiais emitidos por...
 $FAB_012_06x09_08_01
-Monsieur le juge, posso interromper? Essa linha de defesa é um completo absurdo!
+Meritíssimo juiz, posso interromper? Essa linha de defesa é um completo absurdo!
 $FAB_012_06x09_08_02
 Por que não? Eu mesmo trouxe o documento para ser assinado por este juiz. Ele assinou. Ele me concedeu o direito de usar a força em caso de perigo iminente vindo dos manifestantes.
 $FAB_012_06x09_08_03
@@ -221,7 +221,7 @@ Prefiro não.
 $FAB_012_WIT_00_B_02
 Por quê?
 $FAB_012_WIT_00_B_03
-Porque eram grosseiros, monsieur le juge. Eles xingaram Robespierre, o Cidadão Capet... Eu diria que essas acusações eram falsas.
+Porque eram grosseiros, meritíssimo juiz. Eles xingaram Robespierre, o Cidadão Capet... Eu diria que essas acusações eram falsas.
 $FAB_012_WIT_00_B_04
 Por favor, nos dê um exemplo, para que possamos compreender sua natureza…
 $FAB_012_WIT_00_B_05

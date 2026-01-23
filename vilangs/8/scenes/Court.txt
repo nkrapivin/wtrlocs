@@ -207,7 +207,7 @@ O acusado morre hoje.
 $PROSECUTOR_QUEST_PRISON
 Quero que o réu seja enviado à prisão.
 $PROSECUTOR_QUEST_NOT_GUILTY
-Libertem o acusado!
+Liberte o acusado!
 $PROSECUTOR_BAD_QUIZ_POPUP
 Não vou assinar um relatório tão malfeito. Cuidado para não acabar na guilhotina por causa disso!
 $VERDICT_LOCKED_TEXT

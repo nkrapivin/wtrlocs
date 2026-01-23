@@ -145,7 +145,7 @@ Quando alguém é suspeito de um crime, faz-se uma investigação, não é? Ent�
 $GEN_005_05x07_05_07
 Entendi corretamente que você agrediu o cidadão Fournier por causa de alguns boatos?
 $GEN_005_05x07_05_08
-Monsieur le juge, está insinuando que os parisienses são mentirosos?
+Meritíssimo juiz, está insinuando que os parisienses são mentirosos?
 $GEN_005_05x07_05_09
 Aqui quem faz as perguntas sou eu, não você.
 $GEN_005_05x07_05_10
@@ -189,7 +189,7 @@ Você trabalha para a vítima?
 $GEN_005_WIT_00_A_00
 Você trabalha para a vítima?
 $GEN_005_WIT_00_A_01
-Sim, monsieur le juge, está correto.
+Sim, meritíssimo juiz, está correto.
 $GEN_005_WIT_00_A_02
 Você viu o ata–
 $GEN_005_WIT_00_A_03

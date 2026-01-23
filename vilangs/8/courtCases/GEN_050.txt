@@ -9,11 +9,11 @@ $GEN_050_DOC_01_02
 $GEN_050_OnStart_00
 Soldado Gaubert?
 $GEN_050_OnStart_01
-Soldado Michel Gaubert, monsieur le juge.
+Soldado Michel Gaubert, meritíssimo juiz.
 $GEN_050_OnStart_02
 Há quanto tempo você está no exército?
 $GEN_050_OnStart_03
-Um ano e quatro meses, monsieur le juge.
+Um ano e quatro meses, meritíssimo juiz.
 $GEN_050_OnStart_04
 Você roubou os gansos de Jean Capel?
 $GEN_050_OnStart_05
@@ -65,7 +65,7 @@ Não fui eu...
 $GEN_050_03x06_01_02
 Claro, é o que todos dizem.
 $GEN_050_03x06_01_03
-Eu não mataria alguém por causa de um simples ganso, monsieur le juge, mesmo estando faminto como um lobo.
+Eu não mataria alguém por causa de um simples ganso, meritíssimo juiz, mesmo estando faminto como um lobo.
 $GEN_050_03x06_01_04
 Mas por que levou a baioneta com você?
 $GEN_050_03x06_01_05

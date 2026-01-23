@@ -7,7 +7,7 @@ Ontem à tarde, na residência da vítima, foi ouvido um <a name="1" class="hidd
 $FAB_020_DOC_01_02
 Durante um breve interrogatório em sua cela, <a name="5" class="hidden">o réu permaneceu em silêncio</a>. Hanriot esteve presente durante essa tentativa de obter informações, o que me parece estranho, mas como é o comandante-chefe, pode agir como quiser. Infelizmente, ocorreu um incidente. Após a saída dos investigadores, um dos guardas voltou à cela, lançou-se sobre o réu e <a name="6" class="hidden">deu-lhe vários chutes</a>, gritando: “O que você sabe sobre Robespierre?! O que você sabe sobre o Comandante?!”
 $FAB_020_DOC_01_03
-Procuro evitar boatos, mas um certo rumor pode ser crucial para este caso. Monsieur le juge provavelmente não sabe, como a maioria dos parisienses, que dizem que o jovem Boutin é <a name="7" class="hidden">filho ilegítimo</a> de Gobel. O mesmo que tem sido assunto na cidade ultimamente. Se isso for verdade, estamos diante de uma tragédia e de um mistério — por que um filho mataria o próprio pai? Não consegui descobrir a verdade. Talvez você consiga.
+Procuro evitar boatos, mas um certo rumor pode ser crucial para este caso. Meritíssimo juiz provavelmente não sabe, como a maioria dos parisienses, que dizem que o jovem Boutin é <a name="7" class="hidden">filho ilegítimo</a> de Gobel. O mesmo que tem sido assunto na cidade ultimamente. Se isso for verdade, estamos diante de uma tragédia e de um mistério — por que um filho mataria o próprio pai? Não consegui descobrir a verdade. Talvez você consiga.
 $FAB_020_OnStart_00
 Gostaríamos que o réu declarasse seu nome.
 $FAB_020_OnStart_01

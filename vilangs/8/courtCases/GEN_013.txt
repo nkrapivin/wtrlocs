@@ -139,7 +139,7 @@ Você manteve o funcionamento do seu laboratório usando o dinheiro dos contribu
 $GEN_013_05x07_04_00
 Você manteve o funcionamento do seu laboratório usando o dinheiro dos contribuintes?
 $GEN_013_05x07_04_01
-Sim, monsieur le juge.
+Sim, meritíssimo juiz.
 $GEN_013_05x07_04_02
 O que exatamente você descobriu? Algo útil?
 $GEN_013_05x07_04_03

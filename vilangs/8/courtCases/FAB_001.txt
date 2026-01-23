@@ -21,11 +21,11 @@ Jean-Arsen
 $FAB_001_OnStart_00
 Por favor, apresente-se.
 $FAB_001_OnStart_01
-Monsieur le juge, o senhor me conhece…
+Meritíssimo juiz, o senhor me conhece…
 $FAB_001_OnStart_02
 Declare suas informações pessoais ou haverá consequências!
 $FAB_001_OnStart_03
-Claude Pochard, monsieur le juge.
+Claude Pochard, meritíssimo juiz.
 $FAB_001_OnStart_04
 Você está acusado de espionagem em favor dos contrarrevolucionários e de criticar a ordem vigente. Confessa esses crimes?
 $FAB_001_OnStart_05
@@ -35,7 +35,7 @@ Tão típico de um padre insinuar que o governo revolucionário age por má-fé.
 $FAB_001_OnGuilty_00
 Condeno Claude Pochard à guilhotina! Levem o condenado.
 $FAB_001_OnGuilty_01
-Monsieur le juge, sua coragem é admirável!
+Meritíssimo juiz, sua coragem é admirável!
 $FAB_001_OnGuilty_02
 Sim, levem-no daqui!
 $FAB_001_OnGuilty_03
@@ -147,7 +147,7 @@ Chame a testemunha Marie Gimet.
 $FAB_001_02x05_04_02
 Cidadã, qual é o seu nome?
 $FAB_001_02x05_04_03
-Marie Gimet, monsieur le juge.
+Marie Gimet, meritíssimo juiz.
 $FAB_001_03x06_05_QTitle
 Qual é o salário que o réu recebe como professor?
 $FAB_001_03x06_05_00
@@ -279,7 +279,7 @@ Sim. Frédéric às vezes me diz que sente falta do professor…
 $FAB_001_precourt_04
 O que você está fazendo? O julgamento está prestes a começar.
 $FAB_001_precourt_05
-É sobre o Monsieur Pochard...
+É sobre o Senhor Pochard...
 $FAB_001_precourt_06
 As notícias correm rápido... Ele foi acusado de atividades contrarrevolucionárias.
 $FAB_001_precourt_07

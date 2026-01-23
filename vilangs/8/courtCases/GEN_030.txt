@@ -17,7 +17,7 @@ Eu, Adèle de Maillard, abaixo assinada e em pleno gozo de minhas faculdades men
 $GEN_030_OnStart_00
 Qual é o seu nome?
 $GEN_030_OnStart_01
-René Mazeaud, monsieur le juge. Conheço muito bem o procedimento. Podemos ir direto às acusações?
+René Mazeaud, meritíssimo juiz. Conheço muito bem o procedimento. Podemos ir direto às acusações?
 $GEN_030_OnStart_02
 Se o réu conhece tão bem o procedimento, deveria saber que sou eu quem toma as decisões aqui, não o acusado.
 $GEN_030_OnStart_03
@@ -111,7 +111,7 @@ Chame a testemunha, Simon Roux.
 $GEN_030_05x06_03_02
 Por favor, apresente-se.
 $GEN_030_05x06_03_03
-Simon Roux, presente por ordem de monsieur le juge.
+Simon Roux, presente por ordem do meritíssimo juiz.
 $GEN_030_08x09_04_QTitle
 Você conhecia Adèle de Maillard?
 $GEN_030_08x09_04_00
