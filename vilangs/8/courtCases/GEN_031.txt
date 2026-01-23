@@ -7,7 +7,7 @@ Bonnet foi <a name="3" class="hidden">acusado de cafetinagem</a> envolvendo Oliv
 $GEN_031_DOC_1_02
 Arnaud testemunhou que Olivia de Nerval participou de <a name="5" class="hidden">uma apresentação privada</a> intitulada “Os Infortúnios da Virtude”, exibida apenas para um seleto grupo de convidados. Normalmente, após essas apresentações privadas, algumas atrizes têm <a name="6" class="hidden">“encontros particulares”</a> com seus admiradores. Arnaud afirmou ter visto Bonnet ordenar a uma de suas subordinadas, Maria Deraismes, que <a name="7" class="hidden">levasse Olivia</a> até um quarto onde Gustave Clavel, crítico teatral conhecido por sua lascívia, já a aguardava.
 $GEN_031_DOC_1_03
-As acusações de De Condorcet logo se espalharam entre os aristocratas, que exigiram a prisão imediata e punição severa de Bonnet. Enquanto isso, <a name="8" class="hidden">Olivia</a> recusou-se a testemunhar e Clavel desapareceu.
+As acusações de Arnaud de Condorcet logo se espalharam entre os aristocratas, que exigiram a prisão imediata e punição severa de Bonnet. Enquanto isso, <a name="8" class="hidden">Olivia</a> recusou-se a testemunhar e Clavel desapareceu.
 $GEN_031_DOC_2_TOOLTIP
 Folheto
 $GEN_031_DOC_2_00
@@ -24,7 +24,7 @@ Cidadão, qual é o seu nome?
 $GEN_031_OnStart_01
 Arthur Bonnet, meritíssimo juiz.
 $GEN_031_OnStart_02
-Você está sendo acusado de explorar sexualmente sua pupila menor de idade, Olivia de Nerval, em benefício próprio. Como responde a essas acusações?
+Você está sendo acusado de explorar sexualmente sua pupila menor de idade, Olivia de , em benefício próprio. Como responde a essas acusações?
 $GEN_031_OnStart_03
 Eu não fiz nada disso! Quem ousa dizer tal coisa?
 $GEN_031_OnStart_04
@@ -56,9 +56,9 @@ O juiz deve gostar dessas atrizes!
 $GEN_031_OnNotGuilty_04
 Mesmo que você não acredite no que foi dito sobre Olivia, é evidente que o teatro não passa de um bordel.
 $GEN_031_08x03_00_QTitle
-Por que de Nerval ficou sob sua tutela após a morte do pai dela?
+Por que Olivia de Nerval ficou sob sua tutela após a morte do pai dela?
 $GEN_031_08x03_00_00
-Por que de Nerval ficou sob sua tutela após a morte do pai dela?
+Por que Olivia de Nerval ficou sob sua tutela após a morte do pai dela?
 $GEN_031_08x03_00_01
 É muito simples. Primeiro ela foi colocada em um orfanato, e eu a adotei assim que reconheci seu talento.
 $GEN_031_08x03_00_02
@@ -136,7 +136,7 @@ Por que não? Ela não estaria apenas conversando?
 $GEN_031_05x06_03_05
 Conversas podem ser exaustivas, e ela é apenas uma criança.
 $GEN_031_05x06_03_06
-Por que de Condorcet mentiria?
+Por que Arnaud de Condorcet mentiria?
 $GEN_031_05x06_03_07
 Ele tentou assumir o cargo de diretor do Odéon-Théâtre. Chegou até a me ameaçar, dizendo que faria de tudo para me arruinar! Então inventou essa história de… “alcovitagem”.
 $GEN_031_03x07_04_QTitle
@@ -218,9 +218,9 @@ Meritíssimo juiz, nada acontece no Odéon-Théâtre sem o conhecimento e a perm
 $GEN_031_WIT_00_A_06
 Então ele sabia o que acontecia por trás das portas fechadas.
 $GEN_031_WIT_00_B_QTitle
-Quanto cobraram do cidadão Clavel pelo encontro com de Nerval?
+Quanto cobraram do cidadão Clavel pelo encontro com Olivia de Nerval?
 $GEN_031_WIT_00_B_00
-Quanto cobraram do cidadão Clavel pelo encontro com de Nerval?
+Quanto cobraram do cidadão Clavel pelo encontro com Olivia de Nerval?
 $GEN_031_WIT_00_B_01
 Nada. Conversas desse tipo não estão no cardápio de preços. Foi apenas o encontro de um crítico teatral com uma atriz em formação.
 $GEN_031_WIT_01_A_QTitle
@@ -234,7 +234,7 @@ Que interessante. O diretor deu a autorização?
 $GEN_031_WIT_01_A_03
 Não, ele recusou terminantemente. Disse que Olivia ainda não é uma atriz profissional e que, de qualquer forma, é jovem demais para encontrar seus admiradores.
 $GEN_031_WIT_01_A_04
-Qual foi a reação de de Condorcet?
+Qual foi a reação do Arnaud de Condorcet?
 $GEN_031_WIT_01_A_05
 Ele estava muito agitado, até vulgar. Não posso culpá-lo. Olivia é uma aprendiz muito... talentosa.
 $GEN_031_WIT_01_B_QTitle
