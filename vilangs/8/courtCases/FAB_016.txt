@@ -61,7 +61,7 @@ Ao que tudo indica, seus comparsas resolveram entregá-lo.
 $FAB_016_01x03_01_00
 Ao que tudo indica, seus comparsas resolveram entregá-lo. A denúncia anônima que recebemos e que levou à sua prisão certamente foi enviada por seus próprios cúmplices.
 $FAB_016_01x03_01_01
-Eu não sei, eu... Um homem me procurou pedindo informações sobre a família do senhor juiz. Era só informação.
+Eu não sei, eu... Um homem me procurou pedindo informações sobre a família do meritíssimo juiz. Era só informação.
 $FAB_016_01x03_01_02
 E você simplesmente entregou a ele sem suspeitar de nada?
 $FAB_016_01x03_01_03
