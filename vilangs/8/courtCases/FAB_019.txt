@@ -69,7 +69,7 @@ Não é preciso um regimento de soldados para esfaquear alguém.
 $FAB_019_01x06_01_02
 E ninguém ajudou a planejar isso? Você deixou bem claro–
 $FAB_019_01x06_01_03
-Direi isso em alto e bom som – estou ciente da disputa entre monsieur le juge e Marat, mas que todos aqui saibam que não fui instruído a agir assim pelo juiz Fidèle.
+Direi isso em alto e bom som – estou ciente da disputa entre o meritíssimo juiz e Marat, mas que todos aqui saibam que não fui instruído a agir assim pelo juiz Fidèle.
 $FAB_019_01x06_01_04
 Tantas coincidências...
 $FAB_019_01x06_01_05

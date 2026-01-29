@@ -45,7 +45,7 @@ $FAB_903_DOC_5_00
 	Ano do Senhor de 1792, 9 de junho.
 	
 $FAB_903_OnStart_GUARD_00
-Monsieur le juge, a multidão em frente ao prédio está furiosa. Um massacre pode acontecer a qualquer momento.
+Meritíssimo juiz, a multidão em frente ao prédio está furiosa. Um massacre pode acontecer a qualquer momento.
 $FAB_903_OnStart_GUARD_01
 Espalhou-se um boato sobre provas ocultas da traição do cidadão Capet. O povo enlouqueceu.
 $FAB_903_OnStart_KING_00

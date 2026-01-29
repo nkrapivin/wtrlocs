@@ -1,11 +1,11 @@
-$CUT_012_001
+yí$CUT_012_001
 Vai me matar agora?
 $CUT_012_002
 Vai me prender só porque fui o erro de alguém?
 $CUT_012_003
 Porque alguém me enxergou apenas como uma fonte de renda, nada além disso?
 $CUT_012_004
-O que o seu coração lhe diz, monsieur le juge?
+O que o seu coração lhe diz, meritíssimo juiz?
 $CUT_012_005
 Venha, Marie.
 $CUT_012_006

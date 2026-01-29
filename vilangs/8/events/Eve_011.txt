@@ -11,7 +11,7 @@ Advirta os estudantes e proíba tais práticas
 $EVE_011_MAIN_02A_C2
 Permitir que os experimentos continuem
 $EVE_011_MAIN_02B
-As famílias não ficarão satisfeitas ao perceberem que ninguém se importa com suas reclamações…
+As famílias não ficaram satisfeitas ao perceberem que ninguém se importou com suas reclamações…
 $EVE_011_MAIN_03A
 Os mortos deixaram de desaparecer. Você não repreendeu os membros da Convenção, mas sim jovens que se assustam facilmente quando percebem que foram descobertos. Duvido que voltem a tentar. Pelo menos, não enquanto durar seu mandato.
 $EVE_011_MAIN_03B

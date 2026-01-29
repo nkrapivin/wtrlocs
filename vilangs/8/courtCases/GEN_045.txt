@@ -111,7 +111,7 @@ Quanto dinheiro o Marquês de Leiningen está exigindo pelo cabriolé e pelo cav
 $GEN_045_03x01_03_00
 Quanto o marquês de Leiningen está exigindo pelo cabriolé e pelo cavalo?
 $GEN_045_03x01_03_01
-Nem tentei memorizar, monsieur le juge. Não consigo nem imaginar tanto dinheiro assim.
+Nem tentei memorizar, meritíssimo juiz. Não consigo nem imaginar tanto dinheiro assim.
 $GEN_045_03x01_03_02
 Você conseguiria juntar tanto assim algum dia?
 $GEN_045_03x01_03_03
@@ -119,7 +119,7 @@ Mesmo com a mão boa, eu teria que trabalhar por uns dez anos, talvez mais.
 $GEN_045_03x01_03_04
 O que você vai fazer?
 $GEN_045_03x01_03_05
-Eu não sei, monsieur le juge. Eu gostaria de pagar essa dívida, de verdade, mas não sei como... O Marquês mandou seus homens me ameaçarem. Disseram que eu acabaria no Sena como Alcasse, ou na prisão.
+Eu não sei, meritíssimo juiz. Eu gostaria de pagar essa dívida, de verdade, mas não sei como... O Marquês mandou seus homens me ameaçarem. Disseram que eu acabaria no Sena como Alcasse, ou na prisão.
 $GEN_045_03x01_03_06
 Canalhas! Como ousam ameaçar pessoas inocentes?!
 $GEN_045_03x01_03_07

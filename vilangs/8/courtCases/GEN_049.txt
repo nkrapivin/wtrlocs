@@ -139,7 +139,7 @@ Não ouvirá isso de mim, mesmo que decida cometer um erro fatal e ouse me conde
 $GEN_049_02x01_03_07
 Do que, afinal, eu deveria ter medo?
 $GEN_049_02x01_03_08
-Monsieur le juge, meus clientes jamais o perdoariam. Sou tão essencial para esta cidade quanto um padeiro. Sacio uma fome muito particular, porém humana, da elite — e é isso que o senhor quer impedir. Amanhã, o próprio senhor pode ser reconhecido como inimigo da Revolução.
+Meritíssimo juiz, meus clientes jamais o perdoariam. Sou tão essencial para esta cidade quanto um padeiro. Sacio uma fome muito particular, porém humana, da elite — e é isso que o senhor quer impedir. Amanhã, o próprio senhor pode ser reconhecido como inimigo da Revolução.
 $GEN_049_03x07_04_QTitle
 Como seus clientes sabem onde encontrá-lo?
 $GEN_049_03x07_04_00

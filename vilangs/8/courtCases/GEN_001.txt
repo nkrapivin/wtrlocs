@@ -217,7 +217,7 @@ Bebo alguma coisa todas as noites.
 $GEN_001_04x07_08_02
 Fale com clareza. Você bebeu naquela noite?
 $GEN_001_04x07_08_03
-Sim, monsieur le juge. Acho que ainda posso beber vinho na minha própria casa, não?
+Sim, meritíssimo juiz. Acho que ainda posso beber vinho na minha própria casa, não?
 $GEN_001_04x07_08_04
 Você sempre fica tão agressivo depois de beber?
 $GEN_001_04x07_08_05

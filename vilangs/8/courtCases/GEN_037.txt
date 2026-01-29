@@ -157,7 +157,7 @@ Chame a testemunha, Jean Macé.
 $GEN_037_04x09_05_00
 Chame a testemunha, Jean Macé.
 $GEN_037_04x09_05_02
-Jean Macé, viúvo da falecida Abelone Macé, monsieur le juge.
+Jean Macé, viúvo da falecida Abelone Macé, meritíssimo juiz.
 $GEN_037_WIT_00_A_QTitle
 Sua esposa comprava cosméticos da viúva Thébault?
 $GEN_037_WIT_00_A_00

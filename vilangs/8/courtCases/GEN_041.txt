@@ -87,7 +87,7 @@ Quanto você bebeu antes de começar sua rota naquela sexta-feira?
 $GEN_041_03x04_02_00
 Quanto você bebeu antes de começar sua rota naquela sexta-feira?
 $GEN_041_03x04_02_01
-Só um copinho, monsieur le juge.
+Só um copinho, meritíssimo juiz.
 $GEN_041_03x04_02_02
 Então, quando chegou à rua du Croissant, já estava sob efeito de álcool?
 $GEN_041_03x04_02_03

@@ -121,7 +121,7 @@ Você escondeu sua oficina?
 $GEN_057_05x02_04_00
 Você escondeu sua oficina?
 $GEN_057_05x02_04_01
-De forma alguma, fica no térreo e tem uma placa. A porta é estreita e a vitrine minúscula, mas o aluguel é baixo, monsieur le juge.
+De forma alguma, fica no térreo e tem uma placa. A porta é estreita e a vitrine minúscula, mas o aluguel é baixo, meritíssimo juiz.
 $GEN_057_05x02_04_02
 Você é corajoso, ousado ou apenas tolo?
 $GEN_057_05x02_04_03

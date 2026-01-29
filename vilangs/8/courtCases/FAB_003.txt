@@ -105,7 +105,7 @@ Chame a testemunha, Jean Douret.
 $FAB_003_04x07_04_02
 Por favor, apresente-se.
 $FAB_003_04x07_04_03
-Jean Douret, mestre dos correios de Sainte-Menehould, monsieur le juge.
+Jean Douret, mestre dos correios de Sainte-Menehould, meritíssimo juiz.
 $FAB_003_05x06_05_QTitle
 Quem foi o responsável pela entrega do passaporte…
 $FAB_003_05x06_05_00
@@ -117,9 +117,9 @@ A Prefeitura não recebeu nenhuma solicitação do seu mordomo.
 $FAB_003_05x06_05_03
 Eu não sei o que dizer...
 $FAB_003_05x06_05_04
-Monsieur le juge! O mordomo de Louis Capet foi visto na embaixada austríaca. Com certeza providenciaram todos os documentos para os desertores.
+Meritíssimo juiz! O mordomo de Louis Capet foi visto na embaixada austríaca. Com certeza providenciaram todos os documentos para os desertores.
 $FAB_003_05x06_05_05
-Monsieur Tinville, isso não passa de boatos! Quem disse tal coisa? Traga-o aqui para que repita diante de todos!
+Senhor Tinville, isso não passa de boatos! Quem disse tal coisa? Traga-o aqui para que repita diante de todos!
 $FAB_003_05x06_05_06
 Não é necessário. Isso é uma prova irrefutável, especialmente à luz do que o acusado nos contou.
 $FAB_003_08x05_06_QTitle

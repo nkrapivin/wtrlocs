@@ -1,7 +1,7 @@
 $FAB_021_DOC_01_HEADER
 Compilado por: Fabrice Poli
 $FAB_021_DOC_01_00
-A ré... Bem, o senhor a conhece muito bem, monsieur le juge, e sabe melhor do que ninguém do que ela é acusada, mas como um escrivão diligente, seguirei com os detalhes por questão de rigor. Ela é acusada de tentativa de assassinato.
+A ré... Bem, o senhor a conhece muito bem, meritíssimo juiz, e sabe melhor do que ninguém do que ela é acusada, mas como um escrivão diligente, seguirei com os detalhes por questão de rigor. Ela é acusada de tentativa de assassinato.
 $FAB_021_DOC_01_01
 Ontem, Mathilde Fidèle usou <a name="2" class="hidden">uma faca de cozinha</a> para esfaquear seu marido, o juiz Alexis Fidèle, na entrada do Tribunal Revolucionário. Segundo testemunhas, ela foi contida imediatamente e sem dificuldade, pois a ré rapidamente largou a arma no chão e <a name="3" class="hidden">não ofereceu resistência</a>.
 $FAB_021_DOC_01_02

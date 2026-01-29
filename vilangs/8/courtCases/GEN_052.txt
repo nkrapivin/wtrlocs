@@ -79,7 +79,7 @@ Seus vizinhos dizem que, quando você voltou da guerra, a princípio estava calm
 $GEN_052_02x06_01_00
 Seus vizinhos dizem que, ao voltar da guerra, você parecia calmo no início, mas com o tempo foi se tornando cada vez mais agressivo. O que aconteceu?
 $GEN_052_02x06_01_01
-Não entendo a pergunta, monsieur le juge.
+Não entendo a pergunta, meritíssimo juiz.
 $GEN_052_02x06_01_02
 Claro que não. Esse aí é puro como um anjo.
 $GEN_052_02x06_01_03
@@ -125,7 +125,7 @@ Na noite em que seu irmão caiu da janela, você estava bebendo?
 $GEN_052_07x04_04_00
 Na noite em que seu irmão caiu da janela, você estava bebendo?
 $GEN_052_07x04_04_01
-Não, monsieur le juge, naquela noite eu estava sóbrio.
+Não, meritíssimo juiz, naquela noite eu estava sóbrio.
 $GEN_052_07x04_04_02
 Seus vizinhos ouviram gritos.
 $GEN_052_07x04_04_03
@@ -223,7 +223,7 @@ O Vincent já te agrediu alguma vez, cidadã?
 $GEN_052_WIT_01_B_00
 O Vincent já levantou a mão para você, cidadã?
 $GEN_052_WIT_01_B_01
-Claro que não, monsieur le juge.
+Claro que não, meritíssimo juiz.
 $GEN_052_WIT_01_B_02
 Ele já gritou com você?
 $GEN_052_WIT_01_B_03

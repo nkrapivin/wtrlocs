@@ -9,17 +9,17 @@ $GEN_047_DOC_01_02
 $GEN_047_OnStart_00
 Você é o soldado Victor Devalle?
 $GEN_047_OnStart_01
-Sim, monsieur le juge.
+Sim, meritíssimo juiz.
 $GEN_047_OnStart_02
 Quantos anos você tem?
 $GEN_047_OnStart_03
-Dezessete, monsieur le juge.
+Dezessete, meritíssimo juiz.
 $GEN_047_OnStart_04
 No meu tempo, as crianças eram mais responsáveis do que esse rapaz!
 $GEN_047_OnStart_05
 Há quanto tempo você serve no exército?
 $GEN_047_OnStart_06
-Por três semanas, monsieur le juge.
+Por três semanas, meritíssimo juiz.
 $GEN_047_OnStart_07
 E você já conseguiu cometer um crime de guerra?
 $GEN_047_OnStart_08
@@ -43,7 +43,7 @@ Por que você estava tão cansado no dia do incidente? Estava lutando?
 $GEN_047_01x05_00_00
 Por que você estava tão cansado no dia do incidente? Estava lutando?
 $GEN_047_01x05_00_01
-Somente pela manhã, monsieur le juge.
+Somente pela manhã, meritíssimo juiz.
 $GEN_047_01x05_00_02
 Por quê?
 $GEN_047_01x05_00_03
@@ -73,13 +73,13 @@ Era uma casa antiga, mais parecida com um barracão, cercada por algumas constru
 $GEN_047_03x04_01_02
 Como o prisioneiro conseguiu escapar?
 $GEN_047_03x04_01_03
-Devem ter arrancado as grades. O prédio mal se mantinha de pé, monsieur le juge. Um leve empurrão já bastava...
+Devem ter arrancado as grades. O prédio mal se mantinha de pé, meritíssimo juiz. Um leve empurrão já bastava...
 $GEN_047_03x04_01_04
 Em casas assim, até a porta parecia prestes a cair.
 $GEN_047_03x04_01_05
 Você não ouviu nada?
 $GEN_047_03x04_01_06
-Não, monsieur le juge. Só queria fechar os olhos por alguns minutos. Não tinha dormido direito ultimamente.
+Não, meritíssimo juiz. Só queria fechar os olhos por alguns minutos. Não tinha dormido direito ultimamente.
 $GEN_047_03x04_01_07
 Algumas semanas no exército e já está exausto?
 $GEN_047_03x04_01_08
@@ -89,7 +89,7 @@ Ele é jovem. Se não quisesse dormir, não dormiria.
 $GEN_047_03x04_01_10
 Foi um oficial que te acordou?
 $GEN_047_03x04_01_11
-Capitão Berryer. Ele ficou tão furioso que quase me atirou ali mesmo, monsieur le juge.
+Capitão Berryer. Ele ficou tão furioso que quase me atirou ali mesmo, meritíssimo juiz.
 $GEN_047_03x04_01_12
 Podiam ter tomado sua arma e matado alguém…
 $GEN_047_03x04_01_13
@@ -131,7 +131,7 @@ Acho que eles estavam patrulhando ao longo da cerca.
 $GEN_047_05x03_03_05
 E nenhum deles capturou o fugitivo?
 $GEN_047_05x03_03_06
-Ao que parece, não, monsieur le juge.
+Ao que parece, não, meritíssimo juiz.
 $GEN_047_05x03_03_07
 Chame a testemunha.
 $GEN_047_05x03_03_09

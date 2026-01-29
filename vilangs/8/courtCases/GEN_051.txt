@@ -51,7 +51,7 @@ Há quanto tempo você trabalha na fábrica?
 $GEN_051_01x03_01_00
 Há quanto tempo você trabalha na fábrica?
 $GEN_051_01x03_01_01
-A vida inteira, monsieur le juge. Comecei como aprendiz, lembro até da época em que passamos para o vapor.
+A vida inteira, meritíssimo juiz. Comecei como aprendiz, lembro até da época em que passamos para o vapor.
 $GEN_051_01x03_01_02
 Pode descrever como a pólvora é feita?
 $GEN_051_01x03_01_03
@@ -131,7 +131,7 @@ Essas mulheres o acusam de um crime terrível.
 $GEN_051_06x05_04_00
 Essas mulheres o acusam de um crime terrível. Há algo que queira dizer em sua defesa?
 $GEN_051_06x05_04_01
-O senhor sabe como são as mulheres, monsieur le juge, nunca têm certeza do que querem.
+O senhor sabe como são as mulheres, meritíssimo juiz, nunca têm certeza do que querem.
 $GEN_051_06x05_04_02
 Tenho certeza de que elas não queriam ser estupradas.
 $GEN_051_06x05_04_03
@@ -153,11 +153,11 @@ Quem não precisa? Está tudo tão caro hoje em dia.
 $GEN_051_WIT_00_A_04
 O cidadão Pinnet lhe ofereceu dinheiro em troca de satisfazer seus desejos?
 $GEN_051_WIT_00_A_05
-Não, monsieur le juge. Ele já chegou com a faca.
+Não, meritíssimo juiz. Ele já chegou com a faca.
 $GEN_051_WIT_00_A_06
 Você ficou com o dinheiro?
 $GEN_051_WIT_00_A_07
-Está comigo. Se quiser, pode dar para algumas crianças pobres, monsieur le juge. Ou simplesmente enfiar na garganta daquele homem.
+Está comigo. Se quiser, pode dar para algumas crianças pobres, meritíssimo juiz. Ou simplesmente enfiar na garganta daquele homem.
 $GEN_051_WIT_00_A_08
 Por que você aceitou isso logo de início?
 $GEN_051_WIT_00_A_09

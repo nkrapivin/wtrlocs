@@ -28,7 +28,7 @@ $PROLOG_CASE_DOC_HEADER
 Ao juiz Alexis Fidèle,
 $PROLOG_CASE_DOC_MAIN
 Ao Juiz Alexis Fidèle,
-	 não esperávamos esse tipo de comportamento de seu filho, embora, ao que parece, devêssemos ter esperado. <a name="1" class="hidden">Uma brincadeira</a> de criança <a name="2" class="hidden">acabou em agressão</a> contra nossos filhos.
+	 Não esperávamos esse tipo de comportamento de seu filho, embora, ao que parece, devêssemos ter esperado. <a name="1" class="hidden">Uma brincadeira</a> de criança <a name="2" class="hidden">acabou em agressão</a> contra nossos filhos.
 	
 	 O mais novo, <a name="3" class="hidden">Antoine</a>, agora está com um <a name="4" class="hidden">dente da frente lascado</a>. Esperamos que o senhor puna seu filho de acordo! Caso a situação se repita, tomaremos medidas mais firmes. Tenho certeza de que saberemos lidar com um jogador e bêbado, mesmo que seja juiz... Não permitiremos que nossos filhos sejam machucados!
 $PROLOG_KEYWORD_01

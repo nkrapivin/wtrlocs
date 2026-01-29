@@ -47,7 +47,7 @@ Vocês são ambos homens de ciência. Como pessoas cultas podem agir dessa manei
 $GEN_039_02x05_00_00
 Vocês são ambos homens de ciência. Como pessoas cultas podem agir dessa maneira?
 $GEN_039_02x05_00_01
-Monsieur le juge, conhece o termo “crime passional”? Significa “cometer um crime sob um impulso súbito e intenso, em um estado de grande agitação”. Quando um crime é cometido assim, a pessoa sente uma agressividade repentina e incontrolável.
+Meritíssimo juiz, conhece o termo “crime passional”? Significa “cometer um crime sob um impulso súbito e intenso, em um estado de grande agitação”. Quando um crime é cometido assim, a pessoa sente uma agressividade repentina e incontrolável.
 $GEN_039_02x05_00_02
 E o que motivou esse seu crime passional?
 $GEN_039_02x05_00_03

@@ -9,7 +9,7 @@ $GEN_046_DOC_01_02
 $GEN_046_OnStart_00
 Seu nome é Bastien Baudet?
 $GEN_046_OnStart_01
-Sim, monsieur le juge.
+Sim, meritíssimo juiz.
 $GEN_046_OnStart_02
 Você ocupou o apartamento do cidadão Solé sem permissão.
 $GEN_046_OnStart_03

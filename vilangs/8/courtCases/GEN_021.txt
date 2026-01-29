@@ -19,15 +19,15 @@ Morte aos burgueses!
 $GEN_021_OnStart_02
 Por favor, apresente-se.
 $GEN_021_OnStart_03
-Isaac Medelsheim, monsieur le juge.
+Isaac Medelsheim, meritíssimo juiz.
 $GEN_021_OnStart_04
 Você é acusado de roubar bens do exército francês e tentar vendê-los.
 $GEN_021_OnStart_05
-Que roubo, monsieur le juge, que crime?!
+Que roubo, meritíssimo juiz, que crime?!
 $GEN_021_OnStart_06
 Temos uma testemunha que viu tudo com os próprios olhos.
 $GEN_021_OnStart_07
-Isso é calúnia, monsieur le juge, e uma provocação inventada pelo Conde de Braux! Ele me deve dinheiro e não quer pagar!
+Isso é calúnia, meritíssimo juiz, e uma provocação inventada pelo Conde de Braux! Ele me deve dinheiro e não quer pagar!
 $GEN_021_OnStart_08
 Os baús militares encontrados em seu armazém, repletos de suprimentos destinados à guarnição de Reims, são provas bastante contundentes contra você.
 $GEN_021_OnStart_09
@@ -103,7 +103,7 @@ Não é só o nosso Exército que compra vinho e carne seca. As caixas estavam c
 $GEN_021_03x06_02_02
 Marcel Rozier não pode confirmar nada. Como você provavelmente já sabe, ele foi encontrado morto na semana passada.
 $GEN_021_03x06_02_03
-Monsieur le juge, é a primeira vez que ouço falar disso. Mas que–
+Meritíssimo juiz, é a primeira vez que ouço falar disso. Mas que–
 $GEN_021_03x06_02_04
 Que conveniente é culpar um homem morto.
 $GEN_021_03x06_02_05
@@ -121,7 +121,7 @@ Você não registrou no inventário as mercadorias armazenadas nos baús de Herz
 $GEN_021_06x07_03_00
 Você não registrou em seu inventário as mercadorias guardadas nos baús de Herz para ocultar que vieram dos suprimentos militares, estou certo?
 $GEN_021_06x07_03_01
-Eu os comprei legalmente! Monsieur le juge, pode verificar você mesmo, os livros estão em perfeita ordem. Deve haver algum engano.
+Eu os comprei legalmente! Meritíssimo juiz, pode verificar você mesmo, os livros estão em perfeita ordem. Deve haver algum engano.
 $GEN_021_06x07_03_02
 O tribunal já verificou. As mercadorias não constam no inventário, o que levanta ainda mais suspeitas, já que os registros sempre foram mantidos em ordem no passado.
 $GEN_021_06x07_03_03
@@ -143,7 +143,7 @@ Como eu poderia não apoiar, quando os bons cidadãos da França querem conceder
 $GEN_021_02x03_04_02
 Então por que está prejudicando a Revolução ao roubar suprimentos militares?
 $GEN_021_02x03_04_03
-Eu dei meu próprio dinheiro para a Revolução, monsieur le juge. Pergunte aos amigos do senhor Robespierre, do senhor Joseph Fouché e do senhor Antoine Simon, eles vão confirmar.
+Eu dei meu próprio dinheiro para a Revolução, meritíssimo juiz. Pergunte aos amigos do senhor Robespierre, do senhor Joseph Fouché e do senhor Antoine Simon, eles vão confirmar.
 $GEN_021_02x03_04_04
 Você pagou para fingir que era um de nós.
 $GEN_021_02x03_04_05
@@ -171,7 +171,7 @@ Quem é responsável pelo controle do estoque?
 $GEN_021_05x07_06_00
 Quem é responsável pela gestão do inventário?
 $GEN_021_05x07_06_01
-Minha filha Esther, monsieur le juge.
+Minha filha Esther, meritíssimo juiz.
 $GEN_021_05x07_06_02
 Só ela tem acesso a isso?
 $GEN_021_05x07_06_03
@@ -207,7 +207,7 @@ Sou responsável pelo inventário e pelo controle das contas dos nossos devedore
 $GEN_021_WIT_00_A_02
 Por que você não registrou no inventário as mercadorias que estavam guardadas nos baús militares?
 $GEN_021_WIT_00_A_03
-Monsieur le juge, desde que minha saúde piorou, descuidei dos meus deveres e, infelizmente, esqueci de registrar essas mercadorias nos livros.
+Meritíssimo juiz, desde que minha saúde piorou, descuidei dos meus deveres e, infelizmente, esqueci de registrar essas mercadorias nos livros.
 $GEN_021_WIT_00_A_04
 Você é tão fraco que nem consegue segurar uma pena?
 $GEN_021_WIT_00_A_05
@@ -221,11 +221,11 @@ O que você sabe sobre as acusações feitas contra seu pai?
 $GEN_021_WIT_01_A_00
 O que você sabe sobre as acusações feitas contra seu pai?
 $GEN_021_WIT_01_A_01
-Elas se baseiam nas mentiras do conde de Braux! Ele deve ao meu pai 400.000 francos e não quer pagar a dívida! Mas o senhor provavelmente já sabe disso, monsieur le juge, já que vocês dois se conhecem muito bem!
+Elas se baseiam nas mentiras do conde de Braux! Ele deve ao meu pai 400.000 francos e não quer pagar a dívida! Mas o senhor provavelmente já sabe disso, meritíssimo juiz, já que vocês dois se conhecem muito bem!
 $GEN_021_WIT_01_A_02
 Chamo a testemunha à ordem!
 $GEN_021_WIT_01_A_03
-O próprio conde de Braux mencionou seu relacionamento com monsieur le juge pouco antes do julgamento!
+O próprio conde de Braux mencionou seu relacionamento com o meritíssimo juiz pouco antes do julgamento!
 $GEN_021_WIT_01_A_04
 O Juiz está de conluio com os contrarrevolucionários!
 $GEN_021_WIT_01_A_05
@@ -251,7 +251,7 @@ Inventário
 $GEN_021_KEY_08
 Depoimento de Esther
 $GEN_021_LastDialog_00
-Que roubo, monsieur le juge, que crime?!
+Que roubo, meritíssimo juiz, que crime?!
 $GEN_021_UNIQUE_QUESTION_00
 Como o estalajadeiro justificou a ausência de registros no inventário?
 $GEN_021_UNIQUE_ANSWER_CORRECT_00_00

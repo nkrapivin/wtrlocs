@@ -17,13 +17,13 @@ $GEN_053_OnStart_00
 $GEN_053_OnStart_01
 De fato, senhor.
 $GEN_053_OnStart_02
-O termo correto é “monsieur le juge”.
+O termo correto é “meritíssimo juiz”.
 $GEN_053_OnStart_03
-Peço desculpas. Sim, monsieur le juge, já produzo talheres há pelo menos dez anos.
+Peço desculpas. Sim, meritíssimo juiz, já produzo talheres há pelo menos dez anos.
 $GEN_053_OnStart_04
 Você sabia que havia ossos humanos em sua oficina?
 $GEN_053_OnStart_05
-De forma alguma, monsieur le juge. Só procurei pela qualidade. Não sou médico.
+De forma alguma, meritíssimo juiz. Só procurei pela qualidade. Não sou médico.
 $GEN_053_OnStart_06
 O que você quer dizer com qualidade?
 $GEN_053_OnStart_07
@@ -35,7 +35,7 @@ Ele deve estrangulá-los ou afogá-los.
 $GEN_053_OnStart_10
 Então você deve saber quais ossos melhor atendem às suas necessidades?
 $GEN_053_OnStart_11
-Alguns servem, outros não, monsieur le juge. Costumo comprar ossos de vaca no mercado. Ossos de porco são piores, mas os de javali servem.
+Alguns servem, outros não, meritíssimo juiz. Costumo comprar ossos de vaca no mercado. Ossos de porco são piores, mas os de javali servem.
 $GEN_053_OnGuilty_00
 As provas não deixam espaço para dúvidas. Lucas Adnet, eu o sentencio à guilhotina.
 $GEN_053_OnGuilty_01
@@ -119,7 +119,7 @@ Alega ter comprado mandíbulas humanas em uma feira de rua?
 $GEN_053_07x09_03_00
 Alega ter comprado mandíbulas humanas em uma feira?
 $GEN_053_07x09_03_01
-Sim, monsieur le juge, eu...
+Sim, meritíssimo juiz, eu...
 $GEN_053_07x09_03_02
 Vou lhe dar a chance de ser honesto comigo. De quem eram os ossos que você guardava no galpão, e onde os conseguiu?
 $GEN_053_07x09_03_03
@@ -203,7 +203,7 @@ Era uma tíbia. Um olhar desatento poderia confundi-la com um osso de animal, ma
 $GEN_053_WIT_00_A_02
 E você não teve nenhuma dúvida?
 $GEN_053_WIT_00_A_03
-Monsieur le juge, já vi ossos demais nesta vida. Este poderia muito bem ser o meu.
+Meritíssimo juiz, já vi ossos demais nesta vida. Este poderia muito bem ser o meu.
 $GEN_053_WIT_00_A_04
 Era velha?
 $GEN_053_WIT_00_A_05
@@ -221,7 +221,7 @@ Por favor, descreva o comportamento do cidadão Adnet durante sua visita.
 $GEN_053_WIT_00_B_00
 Por favor, descreva o comportamento do cidadão Adnet durante sua visita.
 $GEN_053_WIT_00_B_01
-Agora que o senhor pergunta, monsieur le juge, lembro que ele estava entalhando alguma coisa.
+Agora que o senhor pergunta, meritíssimo juiz, lembro que ele estava entalhando alguma coisa.
 $GEN_053_WIT_00_B_02
 Ele falou com você ou tentou lhe vender algo?
 $GEN_053_WIT_00_B_03
@@ -283,7 +283,7 @@ Não me dei ao trabalho de perguntar.
 $GEN_053_WIT_01_B_12
 Quem era o outro fornecedor mencionado pela testemunha?
 $GEN_053_WIT_01_B_13
-Não havia ninguém, monsieur le juge. Ultimamente, não tenho ganhado muito dinheiro e não queria que soubessem que os negócios não vão bem…
+Não havia ninguém, meritíssimo juiz. Ultimamente, não tenho ganhado muito dinheiro e não queria que soubessem que os negócios não vão bem…
 $GEN_053_WIT_01_B_14
 Mente como o vigarista que confessou ser!
 $GEN_053_KEY_01

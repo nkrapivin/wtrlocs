@@ -117,7 +117,7 @@ Você recebia todas as suas ordens por carta?
 $FAB_010_07x06_04_00
 Você recebia todas as suas ordens por meio de cartas?
 $FAB_010_07x06_04_01
-Sim. E por que a pergunta, monsieur le juge?
+Sim. E por que a pergunta, meritíssimo juiz?
 $FAB_010_07x06_04_02
 Gostaria de saber se você chegou a ver as pessoas que lhe pagaram.
 $FAB_010_07x06_04_03
@@ -131,7 +131,7 @@ Dizem os rumores que o enigmático “D” pode ser Danton, tentando enfraquecer
 $FAB_010_07x06_04_07
 Isso é um absurdo. Todos sabem que Danton e Robespierre são aliados políticos.
 $FAB_010_07x06_04_08
-Tenho que concordar com monsieur le juge, e além disso...
+Tenho que concordar com o meritíssimo juiz, e além disso...
 $FAB_010_07x06_04_09
 Você provavelmente já ouviu falar da teoria de que Danton poderia ser um espião inglês. Talvez, no fim das contas, não sejam os austríacos os responsáveis por tudo isso, e sim o cidadão Pache tenha sido enganado e feito de bode expiatório?
 $FAB_010_07x06_04_10

@@ -11,7 +11,7 @@ Em tempos difíceis, as pessoas costumam buscar consolo no fundo de um copo...
 $GEN_009_OnStart_01
 Por favor, apresente-se.
 $GEN_009_OnStart_02
-Meu nome é Jean Renard, monsieur le juge.
+Meu nome é Jean Renard, meritíssimo juiz.
 $GEN_009_OnStart_03
 Nada além de uma fraude!
 $GEN_009_OnPrison_00
@@ -111,7 +111,7 @@ Como você flagrou o cidadão Renard adulterando o vinho com água?
 $GEN_009_WIT_00_B_00
 Como você flagrou o cidadão Renard adulterando o vinho com água?
 $GEN_009_WIT_00_B_01
-Fui tomando uma taça atrás da outra, então precisei... o senhor entende, monsieur le juge...
+Fui tomando uma taça atrás da outra, então precisei... o senhor entende, meritíssimo juiz...
 $GEN_009_WIT_00_B_02
 Eu entendo.
 $GEN_009_WIT_00_B_03

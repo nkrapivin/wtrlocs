@@ -61,7 +61,7 @@ Já nem lembramos a última vez que comemos carne, e ela — quantas carruagens 
 $GEN_059_02x06_00_03
 Então por que encomendou outra carruagem na oficina de Jean Louis? Será que uma viúva solitária precisa mesmo de uma quarta carruagem?
 $GEN_059_02x06_00_04
-Porque minha riqueza me permite, monsieur le juge. Desde quando gastar dinheiro com caprichos femininos é crime?
+Porque minha riqueza me permite, meritíssimo juiz. Desde quando gastar dinheiro com caprichos femininos é crime?
 $GEN_059_02x06_00_05
 Quando esses caprichos servem à conspiração do Conde de Fersen. Sabemos que foi ele quem lhe ordenou comprá-lo.
 $GEN_059_02x06_00_06
@@ -141,7 +141,7 @@ Qual é a sua relação com o Conde de Fersen?
 $GEN_059_05x08_05_00
 Qual é a sua relação com o conde de Fersen?
 $GEN_059_05x08_05_01
-Apenas amizade, monsieur le juge. Na minha idade, não posso esperar por mais nada... infelizmente.
+Apenas amizade, meritíssimo juiz. Na minha idade, não posso esperar por mais nada... infelizmente.
 $GEN_059_05x08_05_02
 Havia algo mais entre vocês no passado?
 $GEN_059_05x08_05_03
@@ -155,7 +155,7 @@ O que o réu pensa sobre a monarquia?
 $GEN_059_03x04_06_00
 O que a acusada pensa sobre a monarquia?
 $GEN_059_03x04_06_01
-Não entendo muito de política, mas apoio a Revolução, se é isso que o senhor está perguntando, monsieur le juge.
+Não entendo muito de política, mas apoio a Revolução, se é isso que o senhor está perguntando, meritíssimo juiz.
 $GEN_059_03x04_06_02
 Foi por isso que você deixou o tribunal?
 $GEN_059_03x04_06_03
@@ -177,7 +177,7 @@ Porque uma mulher solitária quer viajar acompanhada. Ainda há algumas pessoas 
 $GEN_059_01x06_07_02
 Ou você pode planejar ajudar a Família Real, composta exatamente por seis pessoas, a fugir.
 $GEN_059_01x06_07_03
-Não sou o único nesta cidade a possuir uma berlina para seis pessoas, monsieur le juge.
+Não sou o único nesta cidade a possuir uma berlina para seis pessoas, meritíssimo juiz.
 $GEN_059_01x06_07_04
 Mas os outros proprietários não estão conspirando contra o Estado...
 $GEN_059_01x06_07_05

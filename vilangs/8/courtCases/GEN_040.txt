@@ -77,7 +77,7 @@ Encontramos sua denúncia contra o cidadão Courbis. Por que a escreveu?
 $GEN_040_06x05_02_01
 Ele fez isso porque eu comecei a vender sardinhas!
 $GEN_040_06x05_02_02
-Cale a boca de uma vez! Monsieur le juge, eu só queria ajudar a cidade. Todo feirante paga pelo seu lugar nas Halles, o Courbis também deveria pagar.
+Cale a boca de uma vez! Meritíssimo juiz, eu só queria ajudar a cidade. Todo feirante paga pelo seu lugar nas Halles, o Courbis também deveria pagar.
 $GEN_040_06x05_02_03
 Mentiroso e vigarista! Já se esqueceu de quando se escondeu do cobrador real na casa do açougueiro?
 $GEN_040_06x05_02_04

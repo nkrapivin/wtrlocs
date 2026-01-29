@@ -1,19 +1,19 @@
 $FAB_023_DOC_01_HEADER
 Compilado por: Fabrice Poli
 $FAB_023_DOC_01_00
-Nós o pegamos, monsieur le juge, pegamos Robespierre! Finalmente, podemos julgá-lo pelo terror que trouxe sobre nós. Por todas as acusações de traição! Por suas inclinações ditatoriais!
+Nós o pegamos, meritíssimo juiz, pegamos Robespierre! Finalmente, podemos julgá-lo pelo terror que trouxe sobre nós. Por todas as acusações de traição! Por suas inclinações ditatoriais!
 $FAB_023_DOC_01_01
 Em uma época em que o novo governo estava repleto de corruptos, ele ganhou o apelido de “O Incorruptível”. Ainda assim, a França pagou com sangue por seus ideais. <a name="1" class="hidden">A Lei de 22 Prairial</a>, que permitia condenar pessoas sem julgamento, pode ter sido proposta por Couthon, mas foi a autoridade de Robespierre que garantiu sua aplicação. O réu queria dar a si mesmo o poder de eliminar seus adversários políticos — uma ferramenta perfeita para impedir que testemunhassem em tribunal. Quando Robespierre apontava alguém, era como assinar sua sentença de morte.
 $FAB_023_DOC_01_02
 Além disso, segundo rumores, Robespierre teria sugerido certa vez, durante um jantar com Bertrand Barère, que a França só teria a ganhar ao <a name="3" class="hidden">dizimar sua população</a>. Apenas uma sociedade arruinada e reduzida, mas ideologicamente pura, poderia reconstruir a França no espírito da Revolução.
 $FAB_023_DOC_01_03
-Por que Robespierre, um homem cuja reputação já foi irrepreensível, cometeria tais atrocidades? Ditadura, monsieur le juge, é nossa última acusação. Não encontramos outra explicação lógica além do desejo do Incorruptível de conquistar <a name="4" class="hidden">poder absoluto</a> sobre a França, o que equivale a traição! Após a prisão do réu, revistamos o Hôtel de Ville e encontramos um selo <a name="5" class="hidden">gravado com a flor-de-lis</a> – o principal símbolo do poder realista.
+Por que Robespierre, um homem cuja reputação já foi irrepreensível, cometeria tais atrocidades? Ditadura, meritíssimo juiz, é nossa última acusação. Não encontramos outra explicação lógica além do desejo do Incorruptível de conquistar <a name="4" class="hidden">poder absoluto</a> sobre a França, o que equivale a traição! Após a prisão do réu, revistamos o Hôtel de Ville e encontramos um selo <a name="5" class="hidden">gravado com a flor-de-lis</a> – o principal símbolo do poder realista.
 $FAB_023_OnStart_00
 Antes de tudo, pergunto ao réu se está em condições de falar. Pois bem?
 $FAB_023_OnStart_01
 Eu... não consigo...
 $FAB_023_OnStart_02
-Monsieur le juge, todos aqui exigem que, conforme a lei, confirmemos apenas a identidade do réu e proclamemos a sentença sem julgamento.
+Meritíssimo juiz, todos aqui exigem que, conforme a lei, confirmemos apenas a identidade do réu e proclamemos a sentença sem julgamento.
 $FAB_023_OnStart_03
 De acordo com a lei, talvez, mas será que é moral?
 $FAB_023_OnStart_04

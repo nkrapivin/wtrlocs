@@ -93,7 +93,7 @@ Eu me entreguei a ele! Fiz isso porque ele prometeu poupar meu marido, e agora e
 $GEN_044_01x05_02_04
 Ela está mentindo, aquela vadia maldita!
 $GEN_044_01x05_02_05
-É mentira, monsieur le juge! O senhor deveria amordaçá-la!
+É mentira, meritíssimo juiz! O senhor deveria amordaçá-la!
 $GEN_044_01x05_02_06
 Qualquer mulher poderia dizer isso. Precisamos de provas.
 $GEN_044_01x05_02_07

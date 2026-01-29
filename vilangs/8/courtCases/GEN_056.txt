@@ -71,7 +71,7 @@ Sua Senhoria Monstro veste fustão!
 $GEN_056_06x03_01_03
 Silêncio no tribunal. Qual é a sua profissão?
 $GEN_056_06x03_01_04
-No meu estado? Monsieur le juge, às vezes passo três dias seguidos sem conseguir sair do penico, e depois passo mais dois deitado na cama.
+No meu estado? Meritíssimo juiz, às vezes passo três dias seguidos sem conseguir sair do penico, e depois passo mais dois deitado na cama.
 $GEN_056_06x03_01_05
 Então você não trabalha?
 $GEN_056_06x03_01_06
@@ -117,7 +117,7 @@ Chame Lambert Cazale.
 $GEN_056_01x07_03_02
 Seu nome?
 $GEN_056_01x07_03_03
-Lambert Cazale, monsieur le juge.
+Lambert Cazale, meritíssimo juiz.
 $GEN_056_01x07_03_04
 Você acusou o cidadão Rouzet de envenenar o poço.
 $GEN_056_01x07_03_05

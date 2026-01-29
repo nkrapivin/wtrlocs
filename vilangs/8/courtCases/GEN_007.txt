@@ -20,7 +20,7 @@ Este é um assunto delicado que desperta grande controvérsia moral.
 $GEN_007_OnStart_01
 Qual é o seu nome?
 $GEN_007_OnStart_02
-Meu nome é Patrice Leconte, monsieur le juge.
+Meu nome é Patrice Leconte, meritíssimo juiz.
 $GEN_007_OnStart_03
 Você está sendo acusado de assassinato. Deseja admitir sua culpa?
 $GEN_007_OnStart_04
@@ -154,7 +154,7 @@ Meu nome é Valérie Rabiot. Há alguns dias, tornei-me viúva do falecido Victo
 $GEN_007_04x09_05_04
 Um bilhete foi encontrado no bolso do casaco do seu cônjuge falecido. Foi você quem escreveu essa mensagem? E, se sim, para quem ela era destinada?
 $GEN_007_04x09_05_05
-Imagino que monsieur le juge espera uma resposta sobre se o cidadão Leconte era o destinatário. Pois não, não era.
+Imagino que o meritíssimo juiz espera uma resposta sobre se o cidadão Leconte era o destinatário. Pois não, não era.
 $GEN_007_04x09_05_06
 Então, a quem era dirigida?
 $GEN_007_04x09_05_07
@@ -226,7 +226,7 @@ Agradecemos por sua sinceridade.
 $GEN_007_WIT_01_A_09
 Deseja comentar sobre essas revelações?
 $GEN_007_WIT_01_A_10
-Eu não sei... Eu não sei o que dizer. Afinal, foi ela, monsieur le juge, foi ela quem me pediu para matar o marido.
+Eu não sei... Eu não sei o que dizer. Afinal, foi ela, meritíssimo juiz, foi ela quem me pediu para matar o marido.
 $GEN_007_WIT_01_A_11
 Que absurdo é esse?
 $GEN_007_WIT_01_A_12
