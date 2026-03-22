@@ -23,7 +23,7 @@ Schlimmer kann es ohnehin nicht mehr werden. Vielleicht wird Tinville unser Rett
 $CUT_027_SPEECH_012_JUDGE_HUMI
 Frankreich hat schon genug gelitten. Auch seine Bürger haben genug ertragen. Werdet ihr Tinville unterstützen, unseren Hoffnungsschimmer?
 $CUT_027_SPEECH_013_JUDGE
-Wollt ihr weiter hungern? Wollt ihr weiterhin mitansehen, wie unsere Herrscher sich bestechen lassen?
+Wollt ihr weiter hungern? Wollt ihr weiterhin zusehen, wie unsere Herrscher sich bestechen lassen?
 $CUT_027_SPEECH_014_CROWD
 Nein!
 $CUT_027_SPEECH_015_CROWD

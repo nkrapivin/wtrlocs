@@ -149,7 +149,7 @@ Aus Bescheidenheit sollte ich es abstreiten, aber das werde ich nicht tun.
 $FAB_004_01x03_06_02
 Das kann jedoch nicht stimmen, denn ein gewöhnlicher Dieb aus Orléans hat Ihre Schlösser mühelos geknackt.
 $FAB_004_01x03_06_03
-Nun, dann war er wohl einer der besten Diebe in ganz Orléans. Seien wir ehrlich, Monsieur le Juge, jedes Schloss lässt sich mit dem nötigen Talent knacken – sogar meine.
+Nun, dann war er wohl einer der besten Diebe in ganz Orléans. Seien wir ehrlich, Monsieur le juge, jedes Schloss lässt sich mit dem nötigen Talent knacken – sogar meine.
 $FAB_004_02x04_07_QTitle
 Haben Sie Hector Vian erklärt, wie man es aufbricht…?
 $FAB_004_02x04_07_00

@@ -1,7 +1,7 @@
 $CUT_21_DISC_TINVILLE_001_JUDGE
 Bitte verzeihen Sie meine kleine Verspätung.
 $CUT_21_DISC_TINVILLE_002_TINVILLE
-Sie haben meine Neugier geweckt, Monsieur le Juge, denn ich kann mir nicht erklären, womit ich diese Einladung verdient habe.
+Sie haben meine Neugier geweckt, Monsieur le juge, denn ich kann mir nicht erklären, womit ich diese Einladung verdient habe.
 $CUT_21_DISC_TINVILLE_003_JUDGE
 Sie haben doch sicher schon die Gerüchte über Erzbischof Gobel gehört…
 $CUT_21_DISC_TINVILLE_004_TINVILLE

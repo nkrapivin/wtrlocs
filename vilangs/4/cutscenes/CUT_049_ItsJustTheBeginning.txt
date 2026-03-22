@@ -19,7 +19,7 @@ Nur der Adel ist einflussreich genug, um heimlich Leute wie ihn zu engagieren.
 $CUT_049_010_JUDGE
 Selbst sie bräuchten Unterstützung von jemandem im Konvent. Wer also ist „R“?
 $CUT_049_011_GUARDSMAN
-Robespierre vielleicht? Wenn er sich mit den Aristokraten verbündet, müssen wir es… jemandem sagen, allen!
+Robespierre vielleicht? Wenn er sich mit den Aristokraten verbündet, müssen wir es… jemandem sagen - allen!
 $CUT_049_012_JUDGE
 Es könnte auch Minister Roland sein. Solange wir uns nicht sicher sind, würden wir nur Panik auslösen.
 $CUT_049_013_GUARDSMAN
@@ -27,4 +27,4 @@ Wenn das so ist, müssen wir die anderen Agenten aufspüren. Von diesem werden w
 $CUT_049_014_JUDGE
 Wir haben keine andere Wahl.
 $CUT_049_015_JUDGE
-Wenn dieses „R“ versucht, Unterstützung zu gewinnen, musst du es ihm gleichtun. Zum Wohle aller…
+Wenn dieser „R“ versucht, Unterstützung zu gewinnen, musst du es ihm gleichtun. Zum Wohle aller…

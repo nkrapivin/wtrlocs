@@ -69,8 +69,8 @@ Doch, die haben Sie. Die Macht der Guillotine liegt noch immer in Ihren Händen,
 $CUT_051_DUMAS_035
 Unterstützen Sie mich, und die Armee gehört Ihnen.
 $CUT_051_DUMAS_036
-Unabhängig von ihrer Herkunft oder Rasse,
+Unabhängig von ihrer Herkunft oder Ethnie,
 $CUT_051_DUMAS_037
-Diese Leute glauben, wenn sie selbst Angst vor Ihnen haben, dann sollten unsere Feinde vor Furcht erzittern.
+diese Leute glauben, wenn sie selbst Angst vor Ihnen haben, dann sollten unsere Feinde vor Furcht erzittern.
 $CUT_051_JUDGE_038
 Geben Sie mir ein Blatt Papier und eine Feder, General.

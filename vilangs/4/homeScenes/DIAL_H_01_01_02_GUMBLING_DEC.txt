@@ -7,7 +7,7 @@ Du kannst mich wieder tadeln, wie du es immer tust.
 $DIAL_H_01_01_02_004_WIFE_GUMBLING_DEC
 Frédéric stellt sich manchmal vor, du wärst ein Seefahrer auf großer Fahrt. Er träumt davon, dass du ferne Länder besuchst, wunderbare Abenteuer erlebst und eines Tages zurückkehrst, um uns alles davon zu erzählen.
 $DIAL_H_01_01_02_005_WIFE_GUMBLING_DEC
-Doch alles, was ich sehe, ist ein Mann in einem Rettungsboot, und eines deiner Ruder ist zerbrochen. Ein wütender Sturm peitscht gewaltige Wellen auf, die dich verschlingen werden, und ich stehe am Rand einer Klippe und halte eine provisorische Lampe. Deine Kinder haben dich längst vergessen; sie sind weit, weit fort. Dein Vater ist an Altersschwäche gestorben. Deine Trinkkumpane spielen jetzt Karten mit neuen Freunden…
+Doch alles, was ich sehe, ist ein Mann in einem Rettungsboot, und eines deiner Ruder ist zerbrochen. Ein wütender Sturm peitscht gewaltige Wellen auf, die dich verschlingen werden, und ich stehe am Rand einer Klippe und halte eine provisorische Lampe. Deine Kinder haben dich längst vergessen; sie sind weit, weit fort. Dein Vater ist an Altersschwäche gestorben. Deine Trinkkumpanen spielen jetzt Karten mit neuen Freunden…
 $DIAL_H_01_01_02_006_JUDGE_GUMBLING_DEC
 …aber nicht du.
 $DIAL_H_01_01_02_007_WIFE_GUMBLING_DEC

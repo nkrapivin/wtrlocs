@@ -31,7 +31,7 @@ Ich mochte ihn nie. Ich habe Gerüchte gehört, dass er früher im Sklavenhandel
 $DISC_INTR_003_B08_ELLIOTT_016_ELLIOT_INTR
 Ich sehe, Sie haben es auf die hohen Tiere abgesehen. Was schlagen Sie vor?
 $DISC_INTR_003_B08_ELLIOTT_017_ELLIOT_DOUB
-Gobel mag seinem Glauben abgeschworen haben, doch ich bezweifle, dass er seine Mitwürden so leicht im Stich lässt. Er wird nicht kampflos aufgeben, selbst wenn das Volk hinter dir steht.
+Gobel mag seinem Glauben abgeschworen haben, doch ich bezweifle, dass er seine Mitwürdenträger so leicht im Stich lässt. Er wird nicht kampflos aufgeben, selbst wenn das Volk hinter dir steht.
 $DISC_INTR_003_B08_ELLIOTT_018_JUDGE_AGGR
 Wir dürfen nicht für das Verhalten einer einzelnen Gruppe bezahlen. Mit all ihren Lügen und ihrem Verfall hat sich die Kirche den Zorn des Volkes redlich verdient. Lassen wir sie hinter uns und leben endlich in Frieden.
 $DISC_INTR_003_B08_ELLIOTT_019_JUDGE_MANI

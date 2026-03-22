@@ -5,13 +5,13 @@ Ich bin hier.
 $CUT_001_003
 Hörst du mich?
 $CUT_001_004
-Ich habe dir das Beste gegeben, was ich konnte.
+Ich habe dir alles gegeben, was ich konnte.
 $CUT_001_005
 Warum hast du mich verstoßen?
 $CUT_001_006
-Dein Blut fließt in meinen Adern. Wie konntest du nur?
+Dein Blut fließt in meinen Adern - wie konntest du nur?
 $CUT_001_007
-Bedeutet ich dir gar nichts?
+Bedeute ich dir gar nichts?
 $CUT_001_008
 Warum trauerst du um ihn? Er war niemand.
 $CUT_001_009

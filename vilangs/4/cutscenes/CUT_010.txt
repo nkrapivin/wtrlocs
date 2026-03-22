@@ -9,7 +9,7 @@ Sein Erfolg würde Dantons Stellung schwächen, der sich insgeheim dagegen stell
 $CUT_010_005_JUDGE
 Also hat Danton einen Handel mit dem Bürgermeister von Paris geschlossen. Letzterer war dafür verantwortlich, den Bau zu verzögern.
 $CUT_010_006_JUDGE
-Pache muss Dokumente besitzen, die Dantons Schuld beweisen.
+Pache muss Dokumente besitzen, die Dantons Schuld beweisen,
 $CUT_010_007_JUDGE
 aber er wird sie mir nicht bringen, wenn ich ihn nicht überzeuge.
 $CUT_010_008_JUDGE

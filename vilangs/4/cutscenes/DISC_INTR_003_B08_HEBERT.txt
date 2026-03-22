@@ -35,7 +35,7 @@ Uns bleibt wirklich keine andere Wahl. Sie verlangen nach dem Klerus, also geben
 $DISC_INTR_003_B08_HEBERT_018_JUDGE_HUMI
 Ich will der Kirche keinen Schaden zufügen. Sie schadet sich selbst durch die Hände von Ausgestoßenen, die von unseren Bürgern verflucht werden. Wir müssen alle Verbindungen zu dieser Gruppe kappen. Zum Wohle aller.
 $DISC_INTR_003_B08_HEBERT_019_HEBERT_SATI
-Die Vernunft wird über den Aberglauben siegen. Sie haben meine Unterstützung, Monsieur le Juge.
+Die Vernunft wird über den Aberglauben siegen. Sie haben meine Unterstützung, Monsieur le juge.
 $DISC_INTR_003_B08_HEBERT_020_HEBERT_INTR
 Ich frage mich wirklich, wie das alles enden wird, doch ungeachtet meiner Zweifel können Sie auf meine Unterstützung zählen.
 $DISC_INTR_003_B08_HEBERT_021_HEBERT_DOUB

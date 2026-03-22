@@ -3,7 +3,7 @@ Dein Blick war noch nie so leer.
 $CUT_030_002_JUDGE
 Aber heute… möchte ich, dass du stolz auf mich bist.
 $CUT_030_003_THUG
-Kommen Sie mit, Monsieur le Juge.
+Kommen Sie mit, Monsieur le juge.
 $CUT_030_004_JUDGE
 Sohn!
 $CUT_030_005_BROTHER
@@ -135,4 +135,4 @@ Doch er konnte nicht retten, was längst in tausend Stücke zerbrochen war.
 $CUT_030_068_JUDGE
 Ihre Augen waren nicht leer.
 $CUT_030_069_JUDGE
-Ihre Augen …
+Ihre Augen…

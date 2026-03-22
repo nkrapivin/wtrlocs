@@ -1,7 +1,7 @@
 $DIAL_CO_01_01_02_001_JLDAVID
-Darf ich dich daran erinnern, dass du mir zugesagt hast, mich zu begleiten? Ich habe das Gefühl, dass der Mond heute Nacht den Spielern wohlgesinnt ist.
+Darf ich dich daran erinnern, dass du mir zugesagt hast, mich zu begleiten? Ich habe das Gefühl, dass der heutige Mond den Spielern wohlgesonnen ist.
 $DIAL_CO_01_01_02_002_JUDGE
-Allerdings ist sie Ehepartnern nicht wohlgesinnt …
+Allerdings nicht den Ehepartnern…
 $DIAL_CO_01_01_02_003_JLDAVID
 Gott möge uns mit Ehefrauen segnen, die den Wert eines abendlichen Würfelspiels zu schätzen wissen. Und sie sollten auch wissen, dass das richtige Maß an Wein das Glück beim Wurf beflügelt…
 $DIAL_CO_01_01_02_004_JUDGE

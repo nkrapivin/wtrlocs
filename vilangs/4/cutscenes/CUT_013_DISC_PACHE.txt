@@ -13,15 +13,15 @@ Ich bat ihn um Hilfe, aber er kam nie. Du bist gekommen.
 $CUT_013_DISC_PACHE_START_007_JUDGE
 Wir sind doch Freunde, Jean.
 $CUT_013_DISC_PACHE_START_008_PACHE
-Ich muss ihn vernichten, ihn bezahlen lassen! Wir müssen.
+Ich muss ihn vernichten, ihn bezahlen lassen! Wir müssen es tun.
 $CUT_013_DISC_PACHE_001_JUDGE_AGGR
 Wer ist das Schwein, das es wagte, die Hand gegen einen Diener des Staates zu erheben? Und aus welchem Grund?
 $CUT_013_DISC_PACHE_002_JUDGE_MANI
-Wessen haben sie Sie beschuldigt? Es muss etwas gewesen sein, das nur Ihre Freunde wissen. Jemand wie Danton. Worin haben Sie sich verstrickt, Jean?
+Wofür haben sie Sie beschuldigt? Es muss etwas gewesen sein, das nur Ihre Freunde wissen. Jemand wie Danton. Worin haben Sie sich verstrickt, Jean?
 $CUT_013_DISC_PACHE_003_JUDGE_JOKE
 Hier liegt ganz sicher ein Irrtum vor. Keine Sorge, Sie sind noch vor dem Abendessen wieder zu Hause.
 $CUT_013_DISC_PACHE_004_JUDGE_HUMI
-Ich verstehe das nicht. Wessen beschuldigen sie dich? Ausgerechnet dich, wo doch jeder weiß, dass Paris unter deiner Führung aufblüht.
+Ich verstehe das nicht. Wofür beschuldigen sie dich? Ausgerechnet dich, wo doch jeder weiß, dass Paris unter deiner Führung aufblüht.
 $CUT_013_DISC_PACHE_005_PACHE_INTR
 Verrat. Das ist alles, was ich herausfinden konnte. Über die Herkunft dieser Anschuldigungen oder mögliche Beweise weiß ich nichts. Aber ich weiß, dass Danton es nicht eilig hat, mir zu helfen. Er hat mich verraten und steckt bestimmt mit drin!
 $CUT_013_DISC_PACHE_006_PACHE_DOUBT
