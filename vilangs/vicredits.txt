@@ -67,6 +67,8 @@ ROBOTO
 <b>Community Localization (wtrlocs):</b>
 Alex Song
 Erica Lima
+Lukas Rodziewicz
+noelbaker123
 
 <b>Voice actors:</b>
 Michael Dobson
