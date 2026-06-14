@@ -2,15 +2,17 @@
 
 This repository contains open data for new localizations of [We. The Revolution](https://store.steampowered.com/app/736850/We_The_Revolution)
 
-These languages can only be loaded by new builds of the game produced by us (Valkyrie Initiative)
+These languages can only be loaded by new builds of the game produced by us (Valkyrie Initiative), older versions are not supported.
 
 The text is stored in the exact same format as it was originally stored by the developers of this game (it seems so).
 
 ## Testing
 
-- Install the newest build of We. The Revolution that supports `vilangs` (currently - this is only the playtest builds)
-- Clone this Git repository somewhere outside the game folder
-- Replace the `vilangs` folder in `<Game folder>\We.TheRevolution_x86_64_Data\StreamingAssets` to the folder from this repository
+- Install the newest build of We. The Revolution that supports `vilangs`
+
+  *(latest Steam build or the Steam Playtest build, GOG build is NOT supported for now)*
+- Clone this Git repository somewhere **outside** the game folder
+- Replace the `vilangs` folder in `<Game folder>\We.TheRevolution_x86_64_Data\StreamingAssets` with the folder from the cloned repository
 - Launch the game through Steam
 - Observe the changes
 
